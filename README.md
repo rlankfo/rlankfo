@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**rlankfo/rlankfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Photo of Robbie Lankford](https://github.com/rlankfo/rlankfo/blob/main/20210812_183004_Robbie_Lankford-Medium.jpg?raw=true)
 
-Here are some ideas to get you started:
+### Hi there 👋 I'm Robbie
+- 🔭 I’m currently working on the Grafana Agent
+- ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Review some of my code :eyes:
+* :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
+
+#### Comment on some issues :fire:
+* :call_me_hand: [ubuntu/microk8s](https://github.com/ubuntu/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/ubuntu/microk8s/issues/2743)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Proposal: Remote Configuration (go-fsimpl implementation)](https://github.com/grafana/agent/issues/1121)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [support prometheus extra-scrape-metrics](https://github.com/grafana/agent/issues/1073)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Add Tempo in smoke framework](https://github.com/grafana/agent/issues/1072)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Include Loki in smoke framework](https://github.com/grafana/agent/issues/1071)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Option to test agent k8s operator in smoke framework](https://github.com/grafana/agent/issues/1070)
+
+#### Daily Fortune :crescent_moon:
+
+```
+Learn to pause -- or nothing worthwhile can catch up to you.
+```
+
+#### Weather Report :partly_sunny:
+![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR.png?nuFq)
+
+<sub>README.md generated at 2021-11-25 05:45:42.690049664 +0000 UTC :trollface:</sub>
