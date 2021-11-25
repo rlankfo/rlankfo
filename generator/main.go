@@ -34,7 +34,7 @@ var (
 
 	weatherReport = `
 #### Weather Report :partly_sunny:
-![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nuFqp_background=0d1117.png)
+![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 `
 )
 
