@@ -19,10 +19,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Learn to pause -- or nothing worthwhile can catch up to you.
+Beware of low-flying butterflies.
 ```
 
 #### Weather Report :partly_sunny:
-![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR.png?nuFq)
+![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-11-25 05:45:42.690049664 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-11-25 08:10:25.039079403 +0000 UTC :trollface:</sub>
