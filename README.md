@@ -10,7 +10,7 @@
 
 #### Comment on some issues :fire:
 * :call_me_hand: [ubuntu/microk8s](https://github.com/ubuntu/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/ubuntu/microk8s/issues/2743)
-* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Proposal: Remote Configuration (go-fsimpl implementation)](https://github.com/grafana/agent/issues/1121)
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Proposal: Remote Configuration](https://github.com/grafana/agent/issues/1121)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [support prometheus extra-scrape-metrics](https://github.com/grafana/agent/issues/1073)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Add Tempo in smoke framework](https://github.com/grafana/agent/issues/1072)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Include Loki in smoke framework](https://github.com/grafana/agent/issues/1071)
@@ -19,10 +19,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You are standing on my toes.
+Generosity and perfection are your everlasting goals.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-11-29 00:01:12.262607145 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-11-29 18:27:20.034981702 +0000 UTC :trollface:</sub>
