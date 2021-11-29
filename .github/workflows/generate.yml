@@ -36,8 +36,8 @@ jobs:
           cd "$GITHUB_WORKSPACE"
           apt-get update && apt-get install -y fortune-mod
           FORTUNE=$(/usr/games/fortune) ./main
-          git config --global user.name Robbie
-          git config --global user.email rlankfo@gmail.com
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m'ci: generate README.md'
           git push origin main
