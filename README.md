@@ -19,18 +19,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Q:	How many DEC repairman does it take to fix a flat?
-A:	Five; four to hold the car up and one to swap tires.
-
-Q:	How long does it take?
-A:	It's indeterminate.
-	It will depend upon how many flats they've brought with them.
-
-Q:	What happens if you've got TWO flats?
-A:	They replace your generator.
+Generosity and perfection are your everlasting goals.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-11-30 00:01:14.514095385 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-11-30 15:07:21.906320529 +0000 UTC :trollface:</sub>
