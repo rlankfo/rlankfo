@@ -19,10 +19,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Generosity and perfection are your everlasting goals.
+You are wise, witty, and wonderful, but you spend too much time reading
+this sort of trash.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-11-30 15:07:21.906320529 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-11-30 15:12:49.507285268 +0000 UTC :trollface:</sub>
