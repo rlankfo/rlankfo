@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [grafana/agent](https://github.com/grafana/agent): [remote config code with http provider](https://github.com/grafana/agent/pull/1143)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
 
 #### Comment on some issues :fire:
@@ -19,11 +20,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You are wise, witty, and wonderful, but you spend too much time reading
-this sort of trash.
+So you're back... about time...
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-11-30 15:12:49.507285268 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-01 00:00:58.007633556 +0000 UTC :trollface:</sub>
