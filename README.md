@@ -6,7 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [remote config code with http provider](https://github.com/grafana/agent/pull/1143)
+* :metal: [grafana/agent](https://github.com/grafana/agent): [remote config with http(s) provider](https://github.com/grafana/agent/pull/1143)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
 
 #### Comment on some issues :fire:
@@ -20,11 +20,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-When angry, count four; when very angry, swear.
-		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
+Patch griefs with proverbs.
+		-- William Shakespeare, "Much Ado About Nothing"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-01 00:12:01.059866096 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-02 00:01:11.037075204 +0000 UTC :trollface:</sub>
