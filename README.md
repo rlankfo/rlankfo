@@ -20,11 +20,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Patch griefs with proverbs.
-		-- William Shakespeare, "Much Ado About Nothing"
+Do nothing unless you must, and when you must act -- hesitate.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-02 00:01:11.037075204 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-03 00:01:06.217530044 +0000 UTC :trollface:</sub>
