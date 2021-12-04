@@ -6,7 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [remote config with http(s) provider](https://github.com/grafana/agent/pull/1143)
+* :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
 
 #### Comment on some issues :fire:
@@ -20,10 +20,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Do nothing unless you must, and when you must act -- hesitate.
+F.S. Fitzgerald to Hemingway:
+	"Ernest, the rich are different from us."
+Hemingway:
+	"Yes.  They have more money."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-03 00:01:06.217530044 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-04 00:01:06.550829499 +0000 UTC :trollface:</sub>
