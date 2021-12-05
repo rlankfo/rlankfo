@@ -20,13 +20,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-F.S. Fitzgerald to Hemingway:
-	"Ernest, the rich are different from us."
-Hemingway:
-	"Yes.  They have more money."
+A classic is something that everyone wants to have read
+and nobody wants to read.
+		-- Mark Twain, "The Disappearance of Literature"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-04 00:01:06.550829499 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-05 00:01:24.563061655 +0000 UTC :trollface:</sub>
