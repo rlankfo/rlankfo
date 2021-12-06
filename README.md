@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [prometheus/prometheus](https://github.com/prometheus/prometheus): [disable fetching alertmanagers on status page in agent mode](https://github.com/prometheus/prometheus/pull/9941)
 * :metal: [kubernetes/kops](https://github.com/kubernetes/kops): [add verify-golangci-lint.sh script](https://github.com/kubernetes/kops/pull/12892)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
@@ -22,12 +21,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Q:	How many mathematicians does it take to screw in a light bulb?
-A:	One.  He gives it to six Californians, thereby reducing the problem
-	to the earlier joke.
+You will be audited by the Internal Revenue Service.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-05 06:32:58.790963746 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-06 00:01:19.409725504 +0000 UTC :trollface:</sub>
