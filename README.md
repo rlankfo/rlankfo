@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add additional vm_stat memory metrics for darwin](https://github.com/prometheus/node_exporter/pull/2240)
 * :metal: [kubernetes/kops](https://github.com/kubernetes/kops): [add verify-golangci-lint.sh script](https://github.com/kubernetes/kops/pull/12892)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
@@ -21,10 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You will be audited by the Internal Revenue Service.
+Your love life will be... interesting.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-06 00:01:19.409725504 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-06 23:14:59.68773638 +0000 UTC :trollface:</sub>
