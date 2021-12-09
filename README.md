@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You will be awarded a medal for disregarding safety in saving someone.
+Why is it that we rejoice at a birth and grieve at a funeral?  It is because we
+are not the person involved.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-08 00:00:57.289153286 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-09 00:01:09.148513061 +0000 UTC :trollface:</sub>
