@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [weaveworks/common](https://github.com/weaveworks/common): [convert to prometheus/exporter-toolkit](https://github.com/weaveworks/common/pull/233)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add additional vm_stat memory metrics for darwin](https://github.com/prometheus/node_exporter/pull/2240)
 * :metal: [kubernetes/kops](https://github.com/kubernetes/kops): [add verify-golangci-lint.sh script](https://github.com/kubernetes/kops/pull/12892)
@@ -24,11 +23,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Today's weirdness is tomorrow's reason why.
-		-- Hunter S. Thompson
+Knock, knock!
+	Who's there?
+Sam and Janet.
+	Sam and Janet who?
+Sam and Janet Evening...
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-10 17:56:24.643880619 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-11 00:01:19.374674394 +0000 UTC :trollface:</sub>
