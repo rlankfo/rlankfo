@@ -6,7 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
+* :metal: [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter): [serve metrics handler with prometheus exporter-toolkit](https://github.com/percona/mongodb_exporter/pull/393)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add additional vm_stat memory metrics for darwin](https://github.com/prometheus/node_exporter/pull/2240)
 * :metal: [kubernetes/kops](https://github.com/kubernetes/kops): [add verify-golangci-lint.sh script](https://github.com/kubernetes/kops/pull/12892)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
@@ -23,12 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A hundred years from now it is very likely that [of Twain's works] "The
-Jumping Frog" alone will be remembered.
-		-- Harry Thurston Peck (Editor of "The Bookman"), January 1901.
+They spell it "da Vinci" and pronounce it "da Vinchy".  Foreigners
+always spell better than they pronounce.
+		-- Mark Twain
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-13 00:01:06.533776693 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-14 00:01:13.126846122 +0000 UTC :trollface:</sub>
