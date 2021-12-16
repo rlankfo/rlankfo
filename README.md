@@ -22,11 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Always do right.  This will gratify some people and astonish the rest.
-		-- Mark Twain
+So this is it.  We're going to die.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-15 00:01:04.942943622 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-16 00:01:07.214702869 +0000 UTC :trollface:</sub>
