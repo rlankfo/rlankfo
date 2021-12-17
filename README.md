@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You are magnetic in your bearing.
+It is often the case that the man who can't tell a lie thinks he is the best
+judge of one.
+		-- Mark Twain, "Pudd'nhead Wilson's Calendar"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-16 18:02:02.735287046 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-17 00:00:49.820165704 +0000 UTC :trollface:</sub>
