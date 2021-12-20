@@ -22,12 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The difference between the right word and the almost right word is the
-difference between lightning and the lightning bug.
-		-- Mark Twain
+He hath eaten me out of house and home.
+		-- William Shakespeare, "Henry IV"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-19 00:00:59.805759195 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-20 00:01:15.653607763 +0000 UTC :trollface:</sub>
