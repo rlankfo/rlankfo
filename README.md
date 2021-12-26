@@ -22,14 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Q:	What do you call 15 blondes in a circle?
-A:	A dope ring.
-
-Q:	Why do blondes put their hair in ponytails?
-A:	To cover up the valve stem.
+Are you a turtle?
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-25 00:01:08.826532933 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-26 00:01:29.599296197 +0000 UTC :trollface:</sub>
