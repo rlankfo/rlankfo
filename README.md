@@ -22,10 +22,29 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Are you a turtle?
+A Tale of Two Cities LITE(tm)
+	-- by Charles Dickens
+
+	A lawyer who looks like a French Nobleman is executed in his place.
+
+The Metamorphosis LITE(tm)
+	-- by Franz Kafka
+
+	A man turns into a bug and his family gets annoyed.
+
+Lord of the Rings LITE(tm)
+	-- by J. R. R. Tolkien
+
+	Some guys take a long vacation to throw a ring into a volcano.
+
+Hamlet LITE(tm)
+	-- by Wm. Shakespeare
+
+	A college student on vacation with family problems, a screwy
+	girl-friend and a mother who won't act her age.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-26 00:01:29.599296197 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-27 00:01:22.216120915 +0000 UTC :trollface:</sub>
