@@ -22,29 +22,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A Tale of Two Cities LITE(tm)
-	-- by Charles Dickens
-
-	A lawyer who looks like a French Nobleman is executed in his place.
-
-The Metamorphosis LITE(tm)
-	-- by Franz Kafka
-
-	A man turns into a bug and his family gets annoyed.
-
-Lord of the Rings LITE(tm)
-	-- by J. R. R. Tolkien
-
-	Some guys take a long vacation to throw a ring into a volcano.
-
-Hamlet LITE(tm)
-	-- by Wm. Shakespeare
-
-	A college student on vacation with family problems, a screwy
-	girl-friend and a mother who won't act her age.
+All I know is what the words know, and dead things, and that
+makes a handsome little sum, with a beginning and a middle and
+an end, as in the well-built phrase and the long sonata of the dead.
+		-- Samuel Beckett
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-27 00:01:22.216120915 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-28 00:01:26.9920859 +0000 UTC :trollface:</sub>
