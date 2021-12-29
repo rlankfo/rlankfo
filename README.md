@@ -22,13 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-All I know is what the words know, and dead things, and that
-makes a handsome little sum, with a beginning and a middle and
-an end, as in the well-built phrase and the long sonata of the dead.
-		-- Samuel Beckett
+You are capable of planning your future.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-28 00:01:26.9920859 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-29 00:00:55.156429709 +0000 UTC :trollface:</sub>
