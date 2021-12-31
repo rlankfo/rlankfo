@@ -22,14 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-We should be careful to get out of an experience only the wisdom that is
-in it - and stay there, lest we be like the cat that sits down on a hot
-stove-lid.  She will never sit down on a hot stove-lid again - and that
-is well; but also she will never sit down on a cold one any more.
-		-- Mark Twain
+ROMEO:		Courage, man; the hurt cannot be much.
+MERCUTIO:	No, 'tis not so deep as a well, nor so wide
+			as a church-door; but 'tis enough, 'twill serve.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-30 00:01:11.020878477 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2021-12-31 00:01:29.62179758 +0000 UTC :trollface:</sub>
