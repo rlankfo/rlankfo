@@ -22,12 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-ROMEO:		Courage, man; the hurt cannot be much.
-MERCUTIO:	No, 'tis not so deep as a well, nor so wide
-			as a church-door; but 'tis enough, 'twill serve.
+Try the Moo Shu Pork.  It is especially good today.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2021-12-31 00:01:29.62179758 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-01 00:00:53.220485744 +0000 UTC :trollface:</sub>
