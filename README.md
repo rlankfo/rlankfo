@@ -24,11 +24,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-It is a wise father that knows his own child.
-		-- William Shakespeare, "The Merchant of Venice"
+Q:	How many gradual (sorry, that's supposed to be "graduate") students
+	does it take to screw in a light bulb?
+A:	"I'm afraid we don't know, but make my stipend tax-free, give my
+	advisor a $30,000 grant of the taxpayer's money, and I'm sure he
+	can tell me how to do the gruntwork for him so he can take the
+	credit for answering this incredibly vital question."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-06 00:01:07.473896571 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-06 18:32:20.525007926 +0000 UTC :trollface:</sub>
