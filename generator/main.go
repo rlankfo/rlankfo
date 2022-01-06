@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"io/fs"
 	"log"
 	"os"
 	"strings"
@@ -62,11 +63,11 @@ func generateContent() (string, error) {
 }
 
 func getIssues() (string, error) {
-	return searchIssues("is:open is:issue author:rlankfo archived:false", "issues",":call_me_hand:")
+	return searchIssues("is:open is:issue author:rlankfo archived:false", "issues", ":call_me_hand:")
 }
 
 func getPullRequests() (string, error) {
-	return searchIssues("is:open is:pr author:rlankfo archived:false", "pull",":metal:")
+	return searchIssues("is:open is:pr author:rlankfo archived:false", "pull", ":metal:")
 }
 
 func searchIssues(query string, separator string, emoji string) (string, error) {
@@ -109,7 +110,7 @@ func main() {
 	}
 
 	// write content to README
-	f, err := os.OpenFile("README.md", os.O_RDWR, 600)
+	f, err := os.OpenFile("README.md", os.O_RDWR, fs.ModeAppend)
 	defer func(f *os.File) {
 		err := f.Close()
 		if err != nil {
