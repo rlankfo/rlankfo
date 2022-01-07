@@ -34,7 +34,7 @@ jobs:
           go build main.go
           mv main "$GITHUB_WORKSPACE"
           cd "$GITHUB_WORKSPACE"
-          apt-get update && apt-get install -y fortune-mod
+          apt-get update && apt-get install -y fortune-mod fortunes
           FORTUNE=$(/usr/games/fortune) ./main
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
