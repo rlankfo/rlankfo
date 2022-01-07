@@ -6,9 +6,8 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [grafana-agent: install as service](https://github.com/Homebrew/homebrew-core/pull/92578)
+* :metal: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [sync grafana-agent formula with homebrew-core](https://github.com/grafana/homebrew-grafana/pull/21)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [Agent smoke test update](https://github.com/grafana/agent/pull/1225)
-* :metal: [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter): [serve metrics handler with prometheus exporter-toolkit](https://github.com/percona/mongodb_exporter/pull/393)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add additional vm_stat memory metrics for darwin](https://github.com/prometheus/node_exporter/pull/2240)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
@@ -24,11 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-War hath no fury like a non-combatant.
-		-- Charles Edward Montague
+	Catching his children with their hands in the new, still wet, patio,
+the father spanked them.  His wife asked, "Don't you love your children?"
+"In the abstract, yes, but not in the concrete."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-07 01:29:35.000448013 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-07 17:53:52.363561296 +0000 UTC :trollface:</sub>
