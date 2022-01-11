@@ -23,11 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-He missed an invaluable opportunity to hold his tongue.
-		-- Andrew Lang
+"The National Association of Theater Concessionaires reported that in
+1986, 60% of all candy sold in movie theaters was sold to Roger Ebert."
+		-- D. Letterman
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-10 00:01:14.895012773 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-11 00:01:13.168436168 +0000 UTC :trollface:</sub>
