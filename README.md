@@ -23,12 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"The National Association of Theater Concessionaires reported that in
-1986, 60% of all candy sold in movie theaters was sold to Roger Ebert."
-		-- D. Letterman
+Reality is nothing but a collective hunch.
+		-- Lily Tomlin
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-11 00:01:13.168436168 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-12 00:01:23.650585476 +0000 UTC :trollface:</sub>
