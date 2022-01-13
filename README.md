@@ -23,11 +23,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Reality is nothing but a collective hunch.
-		-- Lily Tomlin
+Computer Science is merely the post-Turing decline in formal systems theory.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-12 00:01:23.650585476 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-13 00:01:30.881188127 +0000 UTC :trollface:</sub>
