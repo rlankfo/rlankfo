@@ -23,14 +23,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Shoot me again.
-Just proving that the quickest way to solve the problem is to post a
-whine to the newsgroups: within moments the solution presents itself to
-me, and meanwhile my ass is hanging out on the Net... *sigh*...
-		-- Dave Phillips, dlphilp@bright.net, about problem solving via news
+I'm starting to think the gene pool could use a little chlorine.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-15 00:01:20.668672327 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-16 00:01:23.029332721 +0000 UTC :trollface:</sub>
