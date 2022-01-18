@@ -23,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-One learns to itch where one can scratch.
-		-- Ernest Bramah
+The game of life is a game of boomerangs.  Our thoughts, deeds and words
+return to us sooner or later with astounding accuracy.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-17 00:01:08.350259415 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-18 00:00:59.60395923 +0000 UTC :trollface:</sub>
