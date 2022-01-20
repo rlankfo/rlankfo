@@ -23,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A straw vote only shows which way the hot air blows.
-		-- O'Henry
+Just remember: when you go to court, you are trusting your fate to
+twelve people that weren't smart enough to get out of jury duty!
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-19 00:01:07.294606895 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-20 00:01:21.436239424 +0000 UTC :trollface:</sub>
