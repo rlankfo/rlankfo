@@ -22,11 +22,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Committees have become so important nowadays that subcommittees have to
-be appointed to do the work.
+Unseen University had never admitted women, muttering something about
+problems with the plumbing, but the real reason was an unspoken dread that
+if women were allowed to mess around with magic they would probably be
+embarrassingly good at it ...
+		-- Terry Pratchett, "The Light Fantastic"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-21 00:01:18.321605686 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-22 00:01:16.031908497 +0000 UTC :trollface:</sub>
