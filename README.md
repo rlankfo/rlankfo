@@ -22,11 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"You've got to have a gimmick if your band sucks."
-		-- Gary Giddens
+Stop searching forever.  Happiness is just next to you.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-24 00:01:13.151024735 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-25 00:00:58.701691178 +0000 UTC :trollface:</sub>
