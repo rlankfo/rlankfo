@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Stop searching forever.  Happiness is just next to you.
+He who knows not and knows that he knows not is ignorant.  Teach him.
+He who knows not and knows not that he knows not is a fool.  Shun him.
+He who knows and knows not that he knows is asleep.  Wake him.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-01-25 00:00:58.701691178 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-01-26 00:01:22.068370747 +0000 UTC :trollface:</sub>
