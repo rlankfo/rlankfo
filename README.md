@@ -21,10 +21,20 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Tomorrow, you can be anywhere.
+Dear Emily:
+	I recently read an article that said, "reply by mail, I'll summarize."
+What should I do?
+		-- Doubtful
+
+Dear Doubtful:
+	Post your response to the whole net.  That request applies only to
+dumb people who don't have something interesting to say.  Your postings are
+much more worthwhile than other people's, so it would be a waste to reply by
+mail.
+		-- Emily Postnews Answers Your Questions on Netiquette
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-02 23:21:33.409349896 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-03 00:01:25.907077047 +0000 UTC :trollface:</sub>
