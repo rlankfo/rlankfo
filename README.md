@@ -21,10 +21,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Never tell a lie unless it is absolutely convenient.
+The Kennedy Constant:
+	Don't get mad -- get even.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-05 00:00:55.59942138 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-06 00:03:38.695754234 +0000 UTC :trollface:</sub>
