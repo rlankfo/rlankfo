@@ -22,14 +22,21 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'
-von Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.
-(Christa Keil in a German posting: "Mounting is used for three things:
-climbing on a horse, linking in a hard disk unit in data systems, and, well,
-mounting during sex".)
+Horses
+
+When a nation follows the Way,
+Horses bear manure through its fields;
+When a nation ignores the Way,
+Horses bear soldiers through its streets.
+There is no greater mistake than following desire;
+There is no greater disaster than forgetting contentment;
+There is no greater sickness than seeking attainment;
+But one who is content to satisfy his needs
+Finds that contentment endures.
+		-- Lao Tse, "Tao Te Ching"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-08 00:01:01.864040103 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-08 02:23:32.293346437 +0000 UTC :trollface:</sub>
