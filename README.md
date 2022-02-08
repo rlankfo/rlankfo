@@ -8,6 +8,7 @@
 #### Review some of my code :eyes:
 * :metal: [grafana/agent](https://github.com/grafana/agent): [default send_exemplars to true in remote_write config](https://github.com/grafana/agent/pull/1352)
 * :metal: [grafana/prometheus](https://github.com/grafana/prometheus): [default send_exemplars true in remote_write config](https://github.com/grafana/prometheus/pull/26)
+* :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
 
@@ -21,10 +22,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A lost ounce of gold may be found, a lost moment of time never.
+'Mounten' wird fuer drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'
+von Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.
+(Christa Keil in a German posting: "Mounting is used for three things:
+climbing on a horse, linking in a hard disk unit in data systems, and, well,
+mounting during sex".)
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-07 00:01:02.036451368 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-08 00:01:01.864040103 +0000 UTC :trollface:</sub>
