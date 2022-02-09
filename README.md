@@ -6,8 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [default send_exemplars to true in remote_write config](https://github.com/grafana/agent/pull/1352)
-* :metal: [grafana/prometheus](https://github.com/grafana/prometheus): [default send_exemplars true in remote_write config](https://github.com/grafana/prometheus/pull/26)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
@@ -22,21 +20,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Horses
-
-When a nation follows the Way,
-Horses bear manure through its fields;
-When a nation ignores the Way,
-Horses bear soldiers through its streets.
-There is no greater mistake than following desire;
-There is no greater disaster than forgetting contentment;
-There is no greater sickness than seeking attainment;
-But one who is content to satisfy his needs
-Finds that contentment endures.
-		-- Lao Tse, "Tao Te Ching"
+Real Programmers think better when playing Adventure or Rogue.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-08 02:23:32.293346437 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-09 00:01:07.993820129 +0000 UTC :trollface:</sub>
