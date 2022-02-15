@@ -23,11 +23,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Anyway, my money is still on use strict vars . . .
-		-- Larry Wall in <199710011704.KAA21395@wall.org>
+#define BITCOUNT(x)	(((BX_(x)+(BX_(x)>>4)) & 0x0F0F0F0F) % 255)
+#define  BX_(x)		((x) - (((x)>>1)&0x77777777)			\
+			     - (((x)>>2)&0x33333333)			\
+			     - (((x)>>3)&0x11111111))
+
+		-- really weird C code to count the number of bits in a word
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-14 00:01:20.592634668 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-15 00:01:13.746243801 +0000 UTC :trollface:</sub>
