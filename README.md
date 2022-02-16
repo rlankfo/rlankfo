@@ -23,15 +23,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-#define BITCOUNT(x)	(((BX_(x)+(BX_(x)>>4)) & 0x0F0F0F0F) % 255)
-#define  BX_(x)		((x) - (((x)>>1)&0x77777777)			\
-			     - (((x)>>2)&0x33333333)			\
-			     - (((x)>>3)&0x11111111))
-
-		-- really weird C code to count the number of bits in a word
+Dorothy:	But how can you talk without a brain?
+Scarecrow:	Well, I don't know... but some people without brains
+		do an awful lot of talking.
+		-- The Wizard of Oz
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-15 00:01:13.746243801 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-16 00:01:23.422372094 +0000 UTC :trollface:</sub>
