@@ -23,13 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Dorothy:	But how can you talk without a brain?
-Scarecrow:	Well, I don't know... but some people without brains
-		do an awful lot of talking.
-		-- The Wizard of Oz
+Q:	What do you call the money you pay to the government when
+	you ride into the country on the back of an elephant?
+A:	A howdah duty.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-16 00:01:23.422372094 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-17 00:01:04.04356893 +0000 UTC :trollface:</sub>
