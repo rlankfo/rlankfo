@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [grafana/agent](https://github.com/grafana/agent): [add smoke alerts to mixin; move local alerts into examples dir](https://github.com/grafana/agent/pull/1397)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add bump-formula-pr workflow jobs](https://github.com/grafana/agent/pull/1382)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [enable extra scrape metrics](https://github.com/grafana/agent/pull/1379)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
@@ -23,12 +24,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Q:	What do you call the money you pay to the government when
-	you ride into the country on the back of an elephant?
-A:	A howdah duty.
+There are new messages.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-17 00:01:04.04356893 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-18 00:01:17.112793644 +0000 UTC :trollface:</sub>
