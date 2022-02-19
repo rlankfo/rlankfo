@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [add smoke alerts to mixin; move local alerts into examples dir](https://github.com/grafana/agent/pull/1397)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add bump-formula-pr workflow jobs](https://github.com/grafana/agent/pull/1382)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [enable extra scrape metrics](https://github.com/grafana/agent/pull/1379)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
@@ -14,6 +13,7 @@
 * :metal: [grafana/agent](https://github.com/grafana/agent): [upgrade to loki v2.4.1](https://github.com/grafana/agent/pull/1102)
 
 #### Comment on some issues :fire:
+* :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [add feature flag section in documentation](https://github.com/grafana/agent/issues/1383)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
 * :call_me_hand: [ubuntu/microk8s](https://github.com/ubuntu/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/ubuntu/microk8s/issues/2743)
@@ -24,10 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-There are new messages.
+The computer should be doing the hard work.  That's what it's paid to do,
+after all.
+		-- Larry Wall in <199709012312.QAA08121@wall.org>
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-18 00:01:17.112793644 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-19 00:01:16.302380679 +0000 UTC :trollface:</sub>
