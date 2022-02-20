@@ -24,12 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The computer should be doing the hard work.  That's what it's paid to do,
-after all.
-		-- Larry Wall in <199709012312.QAA08121@wall.org>
+Madison's Inquiry:
+	If you have to travel on the Titanic, why not go first class?
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-19 00:01:16.302380679 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-20 00:01:16.329718677 +0000 UTC :trollface:</sub>
