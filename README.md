@@ -24,13 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Checking host system type...
-i586-unknown-linux
-configure: error: sorry, this is the gnu os, not linux
-		-- Topic on #Linux
+Genius doesn't work on an assembly line basis.  You can't simply say,
+"Today I will be brilliant."
+		-- Kirk, "The Ultimate Computer", stardate 4731.3
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-21 00:01:04.807633285 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-22 00:01:06.114577314 +0000 UTC :trollface:</sub>
