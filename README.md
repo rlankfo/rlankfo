@@ -24,11 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-For every action, there is an equal and opposite criticism.
-		-- Harrison
+"Where shall I begin, please your Majesty?" he asked.  "Begin at the beginning,"
+the King said, gravely, "and go on till you come to the end: then stop."
+Alice's Adventures in Wonderland, Lewis Carroll
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-23 00:01:15.61007383 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-24 00:01:13.550469413 +0000 UTC :trollface:</sub>
