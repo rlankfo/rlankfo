@@ -23,14 +23,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Rincewind looked down at him and grinned slowly.  It was a wide, manic, and
-utterly humourless rictus.  It was the sort of grin that is normally
-accompanied by small riverside birds wandering in and out, picking scraps
-out of the teeth.
-		-- Terry Pratchett, "The Lure of the Wyrm"
+You cannot achieve the impossible without attempting the absurd.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-26 00:01:37.812103907 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-02-27 00:01:19.78373393 +0000 UTC :trollface:</sub>
