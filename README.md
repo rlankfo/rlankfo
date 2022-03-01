@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [add bump-formula-pr workflow jobs](https://github.com/grafana/agent/pull/1382)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [enable extra scrape metrics](https://github.com/grafana/agent/pull/1379)
 * :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
@@ -23,15 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Traveling through New England, a motorist stopped for gas in a tiny village.
-"What's this place called?" he asked the station attendant.
-	"All depends," the native drawled.  "Do you mean by them that has
-to live in this dad-blamed, moth-eaten, dust-covered, one-hoss dump, or
-by them that's merely enjoying its quaint and picturesque rustic charms
-for a short spell?"
+<Dr^Nick> SGI_Multitexture is bad voodoo now
+<Dr^Nick> ARB is good voodoo
+<witten> no, voodoo rush is bad voodoo :)
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-02-28 00:01:17.837038285 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-01 00:01:23.355165779 +0000 UTC :trollface:</sub>
