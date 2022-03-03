@@ -11,6 +11,7 @@
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 
 #### Comment on some issues :fire:
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [fatal errors in the agent](https://github.com/grafana/agent/issues/1450)
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [add feature flag section in documentation](https://github.com/grafana/agent/issues/1383)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
@@ -22,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The proof of the pudding is in the eating.
-		-- Miguel de Cervantes
+Davis's Dictum:
+	Problems that go away by themselves, come back by themselves.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-02 00:01:07.709898612 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-03 00:01:27.349728449 +0000 UTC :trollface:</sub>
