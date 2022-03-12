@@ -22,28 +22,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The Great Movie Posters:
-
-*A Giggle Gurgling Gulp of Glee*
-With Pretty Girls, Peppy Scenes, and Gorgeous Revues -- plus a good story.
-		-- Tea with a Kick (1924)
-
-Whoopie!  Let's go!... Hand-picked Beauties doing cute tricks!
-GET IN THE KNOW FOR THE HEY-HEY WHOOPIE!
-		-- The Wild Party (1929)
-
-YOU HEAR HIM MAKE LOVE!
-DIX -- the dashing soldier!
-	DIX -- the bold adventurer!
-		DIX -- the throbbing lover!
-		-- The Wheel of Life (1929)
-
-SEE CHARLES BUTTERWORTH DRIVE A STREETCAR AND SING LOVE
-SONGS TO HIS MARE "MITZIE"!
-		-- The Night is Young (1934)
+Judges, as a class, display, in the matter of arranging alimony, that
+reckless generosity which is found only in men who are giving away
+someone else's cash.
+		-- P. G. Wodehouse, "Louder and Funnier"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-11 00:01:24.66529315 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-12 00:01:27.810468749 +0000 UTC :trollface:</sub>
