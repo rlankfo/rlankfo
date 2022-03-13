@@ -22,13 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Judges, as a class, display, in the matter of arranging alimony, that
-reckless generosity which is found only in men who are giving away
-someone else's cash.
-		-- P. G. Wodehouse, "Louder and Funnier"
+A man's best friend is his dogma.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-12 00:01:27.810468749 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-13 00:01:16.305107711 +0000 UTC :trollface:</sub>
