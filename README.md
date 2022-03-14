@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A man's best friend is his dogma.
+<Deek> Yes, America is a country based on how pissed-off a group of taxed
+       people can get.
+<Deek> We exist as a country because we're cheap.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-13 00:01:16.305107711 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-14 00:01:26.70044473 +0000 UTC :trollface:</sub>
