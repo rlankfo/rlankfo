@@ -22,11 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<Espy> be careful, some twit might quote you
-<Espy> out of context...
+There has been an alarming increase in the number of things you know
+nothing about.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-15 00:01:23.411416638 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-16 00:01:23.631290711 +0000 UTC :trollface:</sub>
