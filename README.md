@@ -22,11 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Q:	Why did the lone ranger kill Tonto?
-A:	He found out what "kimosabe" really means.
+Compliment, n.:
+	When you say something to another which everyone knows isn't true.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-17 00:01:24.439150381 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-18 00:01:23.699580845 +0000 UTC :trollface:</sub>
