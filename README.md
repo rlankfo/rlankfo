@@ -7,7 +7,6 @@
 
 #### Review some of my code :eyes:
 * :metal: [grafana/agent](https://github.com/grafana/agent): [enable extra scrape metrics](https://github.com/grafana/agent/pull/1379)
-* :metal: [grafana/agent](https://github.com/grafana/agent): [add DarwinConfig for macos_exporter integration](https://github.com/grafana/agent/pull/1158)
 * :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
 
 #### Comment on some issues :fire:
@@ -22,11 +21,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Compliment, n.:
-	When you say something to another which everyone knows isn't true.
+Anyone who stands out in the middle of a road looks like roadkill to me.
+		-- Linus Torvalds
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-18 00:01:23.699580845 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-19 00:01:06.302646189 +0000 UTC :trollface:</sub>
