@@ -21,11 +21,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-What we see depends on mainly what we look for.
-		-- John Lubbock
+When the candles are out all women are fair.
+		-- Plutarch
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-20 00:01:26.877127652 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-21 00:01:19.972751429 +0000 UTC :trollface:</sub>
