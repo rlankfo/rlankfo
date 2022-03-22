@@ -21,11 +21,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-When the candles are out all women are fair.
-		-- Plutarch
+Earth -- mother of the most beautiful women in the universe.
+		-- Apollo, "Who Mourns for Adonais?" stardate 3468.1
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-21 00:01:19.972751429 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-22 00:01:26.255302594 +0000 UTC :trollface:</sub>
