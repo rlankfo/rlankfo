@@ -21,12 +21,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Pauca sed matura.
-	[Few but excellent.]
-		-- Gauss
+Zhizn' prozhit'--ne pole pereiti.
+	[Life's a bitch.]
+	[Well, okay.  lit., to live through life is not as simple as crossing
+	 a field.  Happy now?]
+		-- Russian proverb
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-23 00:01:16.623375451 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-24 00:01:29.787181309 +0000 UTC :trollface:</sub>
