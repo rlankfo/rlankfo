@@ -21,10 +21,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Spreading peanut butter reminds me of opera!!  I wonder why?
+One of the rules of Busmanship, New York style, is never surrender your
+seat to another passenger.  This may seem callous, but it is the best
+way, really.  If one passenger were to give a seat to someone who fainted
+in the aisle, say, the others on the bus would become disoriented and
+imagine they were in Topeka Kansas.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-26 00:01:12.518970992 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-27 00:01:29.900667389 +0000 UTC :trollface:</sub>
