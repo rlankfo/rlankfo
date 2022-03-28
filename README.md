@@ -21,14 +21,16 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-One of the rules of Busmanship, New York style, is never surrender your
-seat to another passenger.  This may seem callous, but it is the best
-way, really.  If one passenger were to give a seat to someone who fainted
-in the aisle, say, the others on the bus would become disoriented and
-imagine they were in Topeka Kansas.
+	There once was a master programmer who wrote unstructured programs.
+A novice programmer, seeking to imitate him, also began to write unstructured
+programs.  When the novice asked the master to evaluate his progress, the
+master criticized him for writing unstructured programs, saying: "What is
+appropriate for the master is not appropriate for the novice.  You must
+understand the Tao before transcending structure."
+		-- Geoffrey James, "The Tao of Programming"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-27 00:01:29.900667389 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-28 00:01:32.047185569 +0000 UTC :trollface:</sub>
