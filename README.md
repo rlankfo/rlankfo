@@ -21,16 +21,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	There once was a master programmer who wrote unstructured programs.
-A novice programmer, seeking to imitate him, also began to write unstructured
-programs.  When the novice asked the master to evaluate his progress, the
-master criticized him for writing unstructured programs, saying: "What is
-appropriate for the master is not appropriate for the novice.  You must
-understand the Tao before transcending structure."
-		-- Geoffrey James, "The Tao of Programming"
+How many Zen Buddhist does it take to change a light bulb?
+
+Two.  One to change it and one not to change it.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-03-28 00:01:32.047185569 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-03-29 00:01:25.359843453 +0000 UTC :trollface:</sub>
