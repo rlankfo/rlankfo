@@ -21,20 +21,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	Hardware met Software on the road to Changtse.  Software said: "You
-are the Yin and I am the Yang.  If we travel together we will become famous
-and earn vast sums of money."  And so the pair set forth together, thinking
-to conquer the world.
-	Presently, they met Firmware, who was dressed in tattered rags, and
-hobbled along propped on a thorny stick.  Firmware said to them: "The Tao
-lies beyond Yin and Yang.  It is silent and still as a pool of water.  It does
-not seek fame, therefore nobody knows its presence.  It does not seek fortune,
-for it is complete within itself.  It exists beyond space and time."
-	Software and Hardware, ashamed, returned to their homes.
-		-- Geoffrey James, "The Tao of Programming"
+well-adjusted, adj.:
+	The ability to play bridge or golf as if they were games.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-01 00:01:37.815071484 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-02 00:01:17.736639614 +0000 UTC :trollface:</sub>
