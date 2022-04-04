@@ -21,12 +21,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-All the passions make us commit faults; love makes us commit the most
-ridiculous ones.
-		-- La Rochefoucauld
+<KnaraKat> Bite me.
+* TheOne gets some salt, then proceeds to nibble on KnaraKat a little
+         bit....
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-03 00:01:36.737908473 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-04 00:01:37.242848834 +0000 UTC :trollface:</sub>
