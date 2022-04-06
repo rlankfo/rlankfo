@@ -11,7 +11,6 @@
 
 #### Comment on some issues :fire:
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
-* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [add feature flag section in documentation](https://github.com/grafana/agent/issues/1383)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
 * :call_me_hand: [canonical/microk8s](https://github.com/canonical/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/canonical/microk8s/issues/2743)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Proposal: Remote Configuration](https://github.com/grafana/agent/issues/1121)
@@ -21,10 +20,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The generation of random numbers is too important to be left to chance.
+Faith is under the left nipple.
+		-- Martin Luther
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-05 00:01:19.767205508 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-06 00:01:42.162658686 +0000 UTC :trollface:</sub>
