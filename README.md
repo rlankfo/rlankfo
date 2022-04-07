@@ -20,11 +20,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Faith is under the left nipple.
-		-- Martin Luther
+QOTD:
+	"Every morning I read the obituaries; if my name's not there,
+	I go to work."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-06 00:01:42.162658686 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-07 00:01:21.776872222 +0000 UTC :trollface:</sub>
