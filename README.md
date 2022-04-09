@@ -20,12 +20,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-We who revel in nature's diversity and feel instructed by every animal tend to
-brand Homo sapiens as the greatest catastrophe since the Cretaceous extinction.
-		-- S. J. Gould
+T-shirt Of The Day:
+	I'm the person your mother warned you about.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-08 00:01:28.744080049 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-09 00:01:26.049689537 +0000 UTC :trollface:</sub>
