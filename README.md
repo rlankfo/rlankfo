@@ -20,19 +20,17 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I have a box of telephone rings under my bed.  Whenever I get lonely, I
-open it up a little bit, and I get a phone call.  One day I dropped the
-box all over the floor.  The phone wouldn't stop ringing.  I had to get
-it disconnected.  So I got a new phone.  I didn't have much money, so I
-had to get an irregular.  It doesn't have a five.  I ran into a friend
-of mine on the street the other day.  He said why don't you give me a
-call.  I told him I can't call everybody I want to anymore, my phone
-doesn't have a five.  He asked how long had it been that way.  I said I
-didn't know -- my calendar doesn't have any sevens.
-		-- Steven Wright
+The polite thing to do has always been to address people as they wish to be
+addressed, to treat them in a way they think dignified.  But it is equally
+important to accept and tolerate different standards of courtesy, not
+expecting everyone else to adapt to one's own preferences.  Only then can
+we hope to restore the insult to its proper social function of expressing
+true distaste.
+		-- Judith Martin, "Miss Manners' Guide to Excruciatingly
+		   Correct Behavior"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-10 00:01:26.599901578 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-11 00:01:42.841698417 +0000 UTC :trollface:</sub>
