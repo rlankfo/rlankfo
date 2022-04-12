@@ -20,17 +20,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The polite thing to do has always been to address people as they wish to be
-addressed, to treat them in a way they think dignified.  But it is equally
-important to accept and tolerate different standards of courtesy, not
-expecting everyone else to adapt to one's own preferences.  Only then can
-we hope to restore the insult to its proper social function of expressing
-true distaste.
-		-- Judith Martin, "Miss Manners' Guide to Excruciatingly
-		   Correct Behavior"
+Order and simplification are the first steps toward mastery of a subject
+-- the actual enemy is the unknown.
+		-- Thomas Mann
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-11 00:01:42.841698417 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-12 00:01:29.222832466 +0000 UTC :trollface:</sub>
