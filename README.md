@@ -20,12 +20,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Order and simplification are the first steps toward mastery of a subject
--- the actual enemy is the unknown.
-		-- Thomas Mann
+This thing all things devours:
+Birds, beasts, trees, flowers;
+Gnaws iron, bites steel;
+Grinds hard stones to meal;
+Slays king, ruins town,
+And beats high mountain down.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-12 00:01:29.222832466 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-13 00:01:22.18730163 +0000 UTC :trollface:</sub>
