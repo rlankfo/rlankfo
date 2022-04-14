@@ -13,22 +13,16 @@
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
 * :call_me_hand: [canonical/microk8s](https://github.com/canonical/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/canonical/microk8s/issues/2743)
-* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Proposal: Remote Configuration](https://github.com/grafana/agent/issues/1121)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [support prometheus extra-scrape-metrics](https://github.com/grafana/agent/issues/1073)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Option to test agent k8s operator in smoke framework](https://github.com/grafana/agent/issues/1070)
 
 #### Daily Fortune :crescent_moon:
 
 ```
-This thing all things devours:
-Birds, beasts, trees, flowers;
-Gnaws iron, bites steel;
-Grinds hard stones to meal;
-Slays king, ruins town,
-And beats high mountain down.
+YOW!!!  I am having fun!!!
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-13 00:01:22.18730163 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-14 00:01:25.792716179 +0000 UTC :trollface:</sub>
