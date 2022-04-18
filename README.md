@@ -19,15 +19,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-We may not like doctors, but at least they doctor.  Bankers are not ever
-popular but at least they bank.  Policeman police and undertakers take
-under.  But lawyers do not give us law.  We receive not the gladsome light
-of jurisprudence, but rather precedents, objections, appeals, stays,
-filings and forms, motions and counter-motions, all at $250 an hour.
-		-- Nolo News, summer 1989
+Divorce Assumption:
+	A form of Safety Net-ism, the belief that if a marriage
+doesn't work out, then there is no problem because partners can simply
+seek a divorce.
+		-- Douglas Coupland, "Generation X: Tales for an Accelerated
+		   Culture"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-17 00:01:38.199046508 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-18 00:01:27.898372501 +0000 UTC :trollface:</sub>
