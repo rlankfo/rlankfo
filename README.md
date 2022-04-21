@@ -5,10 +5,6 @@
 - 🔭 I’m currently working on the Grafana Agent
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
-#### Review some of my code :eyes:
-* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [coreutils: enable install program hostname](https://github.com/Homebrew/homebrew-core/pull/99563)
-* :metal: [prometheus/node_exporter](https://github.com/prometheus/node_exporter): [add darwin mixin](https://github.com/prometheus/node_exporter/pull/2236)
-
 #### Comment on some issues :fire:
 * :call_me_hand: [rlankfo/help-wanted](https://github.com/rlankfo/help-wanted): [label command line flag value not used](https://github.com/rlankfo/help-wanted/issues/1)
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
@@ -19,10 +15,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Fortune favors the lucky.
+Results are not typical.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-20 00:01:30.692699497 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-21 00:01:24.670939505 +0000 UTC :trollface:</sub>
