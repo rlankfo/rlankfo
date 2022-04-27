@@ -14,11 +14,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-taxidermist, n.:
-	A man who mounts animals.
+The grass is always greener on the other side of your sunglasses.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-26 00:01:32.241752083 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-27 00:01:31.062466742 +0000 UTC :trollface:</sub>
