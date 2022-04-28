@@ -14,10 +14,18 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The grass is always greener on the other side of your sunglasses.
+Well, fancy giving money to the Government!
+Might as well have put it down the drain.
+Fancy giving money to the Government!
+Nobody will see the stuff again.
+Well, they've no idea what money's for --
+Ten to one they'll start another war.
+I've heard a lot of silly things, but, Lor'!
+Fancy giving money to the Government!
+		-- A. P. Herbert
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-27 00:01:31.062466742 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-04-28 00:01:19.187962625 +0000 UTC :trollface:</sub>
