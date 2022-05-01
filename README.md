@@ -18,32 +18,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Ritual
-
-Well established hierarchies are not easily uprooted;
-Closely held beliefs are not easily released;
-So ritual enthralls generation after generation.
-Harmony does not care for harmony, and so is naturally attained;
-But ritual is intent upon harmony, and so can not attain it.
-Harmony neither acts nor reasons;
-Love acts, but without reason;
-Justice acts to serve reason;
-But ritual acts to enforce reason.
-When the Way is lost, there remains harmony;
-When harmony is lost, there remains love;
-When love is lost, there remains justice;
-And when justice is lost, there remains ritual.
-Ritual is the end of compassion and honesty,
-The beginning of confusion;
-Belief is a colourful hope or fear,
-The beginning of folly.
-The sage goes by harmony, not by hope;
-He dwells in the fruit, not the flower;
-He accepts substance, and ignores abstraction.
-		-- Lao Tse, "Tao Te Ching"
+<LackOfKan> What are 'bots'?
+<``Erik> rsg is a bot, not a human, not a human usable client, just a bot.
+<``Erik> about the same as a quake bot, except irc bots are (usually)
+         built to help, not shoot your ass full of holes
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-04-30 00:01:10.56599647 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-01 00:01:18.6872686 +0000 UTC :trollface:</sub>
