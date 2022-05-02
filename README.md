@@ -18,13 +18,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<LackOfKan> What are 'bots'?
-<``Erik> rsg is a bot, not a human, not a human usable client, just a bot.
-<``Erik> about the same as a quake bot, except irc bots are (usually)
-         built to help, not shoot your ass full of holes
+One Page Principle:
+	A specification that will not fit on one page of 8.5x11 inch
+	paper cannot be understood.
+		-- Mark Ardis
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-01 00:01:18.6872686 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-02 00:01:19.448081355 +0000 UTC :trollface:</sub>
