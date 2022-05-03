@@ -18,13 +18,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-One Page Principle:
-	A specification that will not fit on one page of 8.5x11 inch
-	paper cannot be understood.
-		-- Mark Ardis
+Stupidity got us into this mess -- why can't it get us out?
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-02 00:01:19.448081355 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-03 00:01:16.074096087 +0000 UTC :trollface:</sub>
