@@ -18,11 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-When in doubt, mumble; when in trouble, delegate; when in charge, ponder.
-		-- James H. Boren
+Women in love consist of a little sighing, a little crying, a little dying
+-- and a good deal of lying.
+		-- Ansey
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-04 00:01:37.263838808 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-05 00:01:39.536075261 +0000 UTC :trollface:</sub>
