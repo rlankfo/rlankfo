@@ -18,12 +18,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Women in love consist of a little sighing, a little crying, a little dying
--- and a good deal of lying.
-		-- Ansey
+Secrecy is the beginning of tyranny.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-05 00:01:39.536075261 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-06 00:01:19.742769114 +0000 UTC :trollface:</sub>
