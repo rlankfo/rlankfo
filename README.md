@@ -18,14 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-This is the way the world ends,
-This is the way the world ends,
-This is the way the world ends,
-Not with a bang but with a whimper.
-		-- T. S. Eliot, "The Hollow Men"
+I'd like to see the government get out of war altogether and leave the
+whole field to private industry.
+		-- Joseph Heller
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-10 00:01:14.788253281 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-11 00:01:19.859920519 +0000 UTC :trollface:</sub>
