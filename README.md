@@ -18,12 +18,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I'd like to see the government get out of war altogether and leave the
-whole field to private industry.
-		-- Joseph Heller
+Old Grandad is dead but his spirits live on.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-11 00:01:19.859920519 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-12 00:01:19.190633331 +0000 UTC :trollface:</sub>
