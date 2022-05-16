@@ -18,11 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Is it 1974?  What's for SUPPER?  Can I spend my COLLEGE FUND in one
-wild afternoon??
+Remember though that
+THERE IS NO GENERAL RULE FOR CONVERTING A LIST INTO A SCALAR.
+		-- Larry Wall in the perl man page
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-15 00:01:33.926401398 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-16 00:01:43.37523258 +0000 UTC :trollface:</sub>
