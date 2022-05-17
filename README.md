@@ -18,12 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Remember though that
-THERE IS NO GENERAL RULE FOR CONVERTING A LIST INTO A SCALAR.
-		-- Larry Wall in the perl man page
+Is truth not truth for all?
+		-- Natira, "For the World is Hollow and I have Touched
+		   the Sky", stardate 5476.4.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-16 00:01:43.37523258 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-17 00:01:22.466577904 +0000 UTC :trollface:</sub>
