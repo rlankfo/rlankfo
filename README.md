@@ -18,12 +18,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Is truth not truth for all?
-		-- Natira, "For the World is Hollow and I have Touched
-		   the Sky", stardate 5476.4.
+Many people feel that they deserve some kind of recognition for all the
+bad things they haven't done.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-17 00:01:22.466577904 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-18 00:01:23.404986549 +0000 UTC :trollface:</sub>
