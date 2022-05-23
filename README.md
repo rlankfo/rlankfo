@@ -18,12 +18,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The most difficult thing in the world is to know how to do a thing and to
-watch someone else doing it wrong, without commenting.
-		-- T. H. White
+It's better to burn out than to fade away.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-22 00:01:18.776895531 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-23 00:01:29.645788946 +0000 UTC :trollface:</sub>
