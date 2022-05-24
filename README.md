@@ -18,10 +18,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-It's better to burn out than to fade away.
+On the Internet, no one knows you're using Windows NT
+		-- Submitted by Ramiro Estrugo, restrugo@fateware.com
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-23 00:01:29.645788946 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-24 00:01:16.389333766 +0000 UTC :trollface:</sub>
