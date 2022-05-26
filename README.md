@@ -18,23 +18,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The Commandments of the EE:
-
- (9)	Trifle thee not with radioactive tubes and substances lest thou
-	commence to glow in the dark like a lightning bug, and thy wife be
-	frustrated and have not further use for thee except for thy wages.
-(10)	Commit thou to memory all the words of the prophets which are
-	written down in thy Bible which is the National Electrical Code,
-	and giveth out with the straight dope and consoleth thee when
-	thou hast suffered a ream job by the chief electrician.
-(11)	When thou muckest about with a device in an unthinking and/or
-	unknowing manner, thou shalt keep one hand in thy pocket.  Better
-	that thou shouldest keep both hands in thy pockets than
-	experimentally determine the electrical potential of an
-	innocent-seeming device.
+Reality does not exist -- yet.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-25 00:01:35.759201416 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-26 00:01:35.461014023 +0000 UTC :trollface:</sub>
