@@ -25,10 +25,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You have a strong appeal for members of the opposite sex.
+Heaven, n.:
+	A place where the wicked cease from troubling you with talk of
+	their personal affairs, and the good listen with attention while you
+	expound your own.
+		-- Ambrose Bierce, "The Devil's Dictionary"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-05-29 00:01:15.472886631 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-05-30 00:01:23.482077708 +0000 UTC :trollface:</sub>
