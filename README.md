@@ -25,11 +25,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-For every action, there is an equal and opposite criticism.
-		-- Harrison
+We are all dying -- and we're gonna be dead for a long time.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-01 00:01:55.491793766 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-02 00:01:27.709998277 +0000 UTC :trollface:</sub>
