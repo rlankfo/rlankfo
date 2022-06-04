@@ -12,7 +12,6 @@
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [cAdvisor integration set enable_load_reader](https://github.com/grafana/agent/issues/1656)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy included in metric labels](https://github.com/grafana/vmware_exporter/issues/19)
-* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add golangci-lint ci job](https://github.com/grafana/vmware_exporter/issues/18)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to object discovery path](https://github.com/grafana/vmware_exporter/issues/16)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [create endpoint to generate pprof](https://github.com/grafana/vmware_exporter/issues/14)
@@ -25,12 +24,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Manly's Maxim:
-	Logic is a systematic method of coming to the wrong conclusion
-	with confidence.
+Say "twenty-three-skiddoo" to logout.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-03 00:01:23.735736581 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-04 00:01:22.025954967 +0000 UTC :trollface:</sub>
