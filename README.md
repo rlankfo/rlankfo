@@ -24,16 +24,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-7:30, Channel 5: The Bionic Dog (Action/Adventure)
-	The Bionic Dog drinks too much and kicks over the National
-	Redwood Forest.
-
-7:30, Channel 8: The Bionic Dog (Action/Adventure)
-	The Bionic Dog gets a hormonal short-circuit and violates the
-	Mann Act with an interstate Greyhound bus.
+Gold, n.:
+	A soft malleable metal relatively scarce in distribution.  It
+	is mined deep in the earth by poor men who then give it to rich
+	men who immediately bury it back in the earth in great prisons,
+	although gold hasn't done anything to them.
+		-- Mike Harding, "The Armchair Anarchist's Almanac"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-05 00:01:24.996790944 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-06 00:01:20.843501792 +0000 UTC :trollface:</sub>
