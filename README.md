@@ -24,24 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Shapes
-
-The Way has no true shape,
-And therefore none can control it.
-If a ruler could control the Way
-All things would follow
-In harmony with his desire,
-And sweet rain would fall,
-Effortlessly slaking every thirst.
-The Way is shaped by use,
-But then the shape is lost.
-Do not hold fast to shapes
-But let sensation flow into the world
-As a river courses down to the sea.
-		-- Lao Tse, "Tao Te Ching"
+Bond reflected that good Americans were fine people and that most of them
+seemed to come from Texas.
+		-- Ian Fleming, "Casino Royale"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-07 00:01:34.492886676 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-08 00:01:28.345787704 +0000 UTC :trollface:</sub>
