@@ -24,21 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Winnuke in one line?  No problem:
-perl -MIO::Socket -e 'IO::Socket::INET->new(PeerAddr=>"bad.dude.com:139")->send("bye",MSG_OOB)'
-
-And formatted so it's a little easier to read:
-
-        #!/usr/bin/perl
-        use IO::Socket;
-        IO::Socket::INET
-                ->new(PeerAddr=>"bad.dude.com:139")
-                ->send("bye", MSG_OOB);
-
-		-- Randal Schwartz
+I am practicing a fine point of ethics.  It is acceptable to shoot back.
+It is not acceptable to shoot first.
+		-- Zed Pobre
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-09 00:02:05.550727741 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-10 00:01:24.416048321 +0000 UTC :trollface:</sub>
