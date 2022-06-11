@@ -24,12 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I am practicing a fine point of ethics.  It is acceptable to shoot back.
-It is not acceptable to shoot first.
-		-- Zed Pobre
+What we cannot speak about we must pass over in silence.
+		-- Wittgenstein
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-10 00:01:24.416048321 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-11 00:01:16.893683451 +0000 UTC :trollface:</sub>
