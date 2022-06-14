@@ -6,6 +6,8 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
+* :metal: [grafana/agent](https://github.com/grafana/agent): [switch to sig.k8s.io/yaml package for unmarshalYAML in operator](https://github.com/grafana/agent/pull/1793)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
@@ -24,14 +26,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-By the way, I can hardly feel sorry for you... All last night I had to listen
-to her tears, so great they were redirected to a stream.  What?  Of _course_
-you didn't know.  You and your little group no longer have any permissions
-around here.  She changed her .lock files, too.
-		-- Kevin M. Bealer, commenting on the private life of a Linux nerd
+Mathematicians practice absolute freedom.
+		-- Henry Adams
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-13 00:01:20.472095032 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-14 00:01:45.557186545 +0000 UTC :trollface:</sub>
