@@ -6,7 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/agent](https://github.com/grafana/agent): [cd agent image for kowalski-dev](https://github.com/grafana/agent/pull/1799)
+* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [introduce metrics for object discovery](https://github.com/grafana/vmware_exporter/pull/24)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -26,10 +26,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-This is your fortune.
+<Coderjoe> gib, perl?
+<gib> methinks perl is the programmer's Swiss Army Chainsaw
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-16 00:01:15.610031938 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-17 00:01:27.591350558 +0000 UTC :trollface:</sub>
