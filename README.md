@@ -26,11 +26,21 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<Coderjoe> gib, perl?
-<gib> methinks perl is the programmer's Swiss Army Chainsaw
+Speak roughly to your little boy,
+	And beat him when he sneezes:
+He only does it to annoy
+	Because he knows it teases.
+	Wow!  wow!  wow!
+
+I speak severely to my boy,
+	And beat him when he sneezes:
+For he can thoroughly enjoy
+	The pepper when he pleases!
+	Wow!  wow!  wow!
+		-- Lewis Carrol, "Alice in Wonderland"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-17 00:01:27.591350558 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-18 00:01:31.689410873 +0000 UTC :trollface:</sub>
