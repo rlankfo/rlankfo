@@ -26,10 +26,27 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Happiness is twin floppies.
+Enlightenment
+
+The enlightened possess understanding
+So profound they can not be understood.
+Because they cannot be understood
+I can only describe their appearance:
+Cautious as one crossing thin ice,
+Undecided as one surrounded by danger,
+Modest as one who is a guest,
+Unbounded as melting ice,
+Genuine as unshaped wood,
+Broad as a valley,
+Seamless as muddy water.
+Who stills the water that the mud may settle,
+Who seeks to stop that he may travel on,
+Who desires less than what may transpire,
+Decays, but will not renew.
+		-- Lao Tse, "Tao Te Ching"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-20 00:01:30.908673865 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-21 00:01:22.413748315 +0000 UTC :trollface:</sub>
