@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [introduce metrics for object discovery](https://github.com/grafana/vmware_exporter/pull/24)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -26,27 +25,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Enlightenment
-
-The enlightened possess understanding
-So profound they can not be understood.
-Because they cannot be understood
-I can only describe their appearance:
-Cautious as one crossing thin ice,
-Undecided as one surrounded by danger,
-Modest as one who is a guest,
-Unbounded as melting ice,
-Genuine as unshaped wood,
-Broad as a valley,
-Seamless as muddy water.
-Who stills the water that the mud may settle,
-Who seeks to stop that he may travel on,
-Who desires less than what may transpire,
-Decays, but will not renew.
-		-- Lao Tse, "Tao Te Ching"
+Insomnia isn't anything to lose sleep over.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-21 00:01:22.413748315 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-22 00:01:28.171021033 +0000 UTC :trollface:</sub>
