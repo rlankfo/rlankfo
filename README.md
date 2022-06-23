@@ -25,10 +25,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Insomnia isn't anything to lose sleep over.
+Mosher's Law of Software Engineering:
+	Don't worry if it doesn't work right.  If everything did, you'd
+	be out of a job.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-22 00:01:28.171021033 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-23 00:01:25.161737579 +0000 UTC :trollface:</sub>
