@@ -25,11 +25,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Calling you stupid is an insult to stupid people!
-		-- Wanda, "A Fish Called Wanda"
+The way these things go, there are probably 6 or 8 kludgey ways to do
+it, and a better way that involves rethinking something that hasn't
+been rethunk yet.
+		-- Larry Wall in <199710221859.LAA24889@wall.org>
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-28 00:01:25.051370141 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-29 00:01:18.27213322 +0000 UTC :trollface:</sub>
