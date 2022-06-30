@@ -10,6 +10,7 @@
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
+* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Corrupt WAL Removal](https://github.com/grafana/agent/issues/1838)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [cAdvisor integration set enable_load_reader](https://github.com/grafana/agent/issues/1656)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy included in metric labels](https://github.com/grafana/vmware_exporter/issues/19)
@@ -25,13 +26,16 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The way these things go, there are probably 6 or 8 kludgey ways to do
-it, and a better way that involves rethinking something that hasn't
-been rethunk yet.
-		-- Larry Wall in <199710221859.LAA24889@wall.org>
+A little retrospection shows that although many fine, useful software systems
+have been designed by committees and built as part of multipart projects,
+those software systems that have excited passionate fans are those that are
+the products of one or a few designing minds, great designers.  Consider Unix,
+APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast them
+with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
+		-- Fred Brooks
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-29 00:01:18.27213322 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-06-30 00:01:18.459470539 +0000 UTC :trollface:</sub>
