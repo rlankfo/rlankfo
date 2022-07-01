@@ -26,16 +26,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A little retrospection shows that although many fine, useful software systems
-have been designed by committees and built as part of multipart projects,
-those software systems that have excited passionate fans are those that are
-the products of one or a few designing minds, great designers.  Consider Unix,
-APL, Pascal, Modula, the Smalltalk interface, even Fortran; and contrast them
-with Cobol, PL/I, Algol, MVS/370, and MS-DOS.
-		-- Fred Brooks
+Every cloud has a silver lining; you should have sold it, and bought titanium.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-06-30 00:01:18.459470539 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-01 00:01:34.265358467 +0000 UTC :trollface:</sub>
