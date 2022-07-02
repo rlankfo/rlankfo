@@ -26,10 +26,29 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Every cloud has a silver lining; you should have sold it, and bought titanium.
+I had an errand there: gathering water-lilies,
+green leaves and lilies white to please my pretty lady,
+the last ere the year's end to keep them from the winter,
+to flower by her pretty feet till the snows are melted.
+
+Each year at summer's end I go to find them for her,
+in a wide pool, deep and clear, far down Withywindle;
+there they open first in spring and there they linger latest.
+
+By that pool long ago I found the River-daughter,
+fair young Goldberry sitting in the rushes.
+Sweet was her singing then, and her heart was beating!
+
+And that proved well for you--for now I shall no longer
+go down deep again along the forest-water,
+no while the year is old.  Nor shall I be passing
+Old Man Willow's house this side of spring-time,
+not till the merry spring, when the River-daughter
+dances down the withy-path to bathe in the water.
+		-- J. R. R. Tolkien
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-01 00:01:34.265358467 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-02 00:01:11.335966084 +0000 UTC :trollface:</sub>
