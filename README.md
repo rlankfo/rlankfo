@@ -26,29 +26,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I had an errand there: gathering water-lilies,
-green leaves and lilies white to please my pretty lady,
-the last ere the year's end to keep them from the winter,
-to flower by her pretty feet till the snows are melted.
-
-Each year at summer's end I go to find them for her,
-in a wide pool, deep and clear, far down Withywindle;
-there they open first in spring and there they linger latest.
-
-By that pool long ago I found the River-daughter,
-fair young Goldberry sitting in the rushes.
-Sweet was her singing then, and her heart was beating!
-
-And that proved well for you--for now I shall no longer
-go down deep again along the forest-water,
-no while the year is old.  Nor shall I be passing
-Old Man Willow's house this side of spring-time,
-not till the merry spring, when the River-daughter
-dances down the withy-path to bathe in the water.
-		-- J. R. R. Tolkien
+When confronted by a difficult problem, you can solve it more easily by
+reducing it to the question, "How would the Lone Ranger handle this?"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-02 00:01:11.335966084 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-03 00:01:23.502664295 +0000 UTC :trollface:</sub>
