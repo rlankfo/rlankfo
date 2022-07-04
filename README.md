@@ -26,11 +26,20 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-When confronted by a difficult problem, you can solve it more easily by
-reducing it to the question, "How would the Lone Ranger handle this?"
+A bunch of Polish scientists decided to flee their repressive government by
+hijacking an airliner and forcing the pilot to fly them to the West.  They
+drove to the airport, forced their way on board a large passenger jet, and
+found there was no pilot on board.  Terrified, they listened as the sirens
+got louder.  Finally, one of the scientists suggested that since he was an
+experimentalist, he would try to fly the aircraft.
+	He sat down at the controls and tried to figure them out.  The sirens
+got louder and louder.  Armed men surrounded the jet.  The would be pilot's
+friends cried out, "Please, please take off now!!!  Hurry!!!"
+	The experimentalist calmly replied, "Have patience.  I'm just a simple
+pole in a complex plane."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-03 00:01:23.502664295 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-04 00:01:29.505221558 +0000 UTC :trollface:</sub>
