@@ -26,20 +26,19 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A bunch of Polish scientists decided to flee their repressive government by
-hijacking an airliner and forcing the pilot to fly them to the West.  They
-drove to the airport, forced their way on board a large passenger jet, and
-found there was no pilot on board.  Terrified, they listened as the sirens
-got louder.  Finally, one of the scientists suggested that since he was an
-experimentalist, he would try to fly the aircraft.
-	He sat down at the controls and tried to figure them out.  The sirens
-got louder and louder.  Armed men surrounded the jet.  The would be pilot's
-friends cried out, "Please, please take off now!!!  Hurry!!!"
-	The experimentalist calmly replied, "Have patience.  I'm just a simple
-pole in a complex plane."
+****  GROWTH CENTER REPAIR SERVICE
+
+For those who have had too much of Esalen, Topanga, and Kairos. Tired of
+being genuine all the time?  Would you like to learn how to be a little
+phony again?  Have you disclosed so much that you're beginning to avoid
+people? Have you touched so many people that they're all beginning to
+feel the same? Like to be a little dependent? Are perfect orgasms
+beginning to bore you? Would you like, for once, not to express a
+feeling?  Or better yet, not be in touch with it at all?  Come to us.  We
+promise to relieve you of the burden of your great potential.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-04 00:01:29.505221558 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-05 00:01:28.816848339 +0000 UTC :trollface:</sub>
