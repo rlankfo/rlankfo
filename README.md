@@ -10,7 +10,6 @@
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
-* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Corrupt WAL Removal](https://github.com/grafana/agent/issues/1838)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [cAdvisor integration set enable_load_reader](https://github.com/grafana/agent/issues/1656)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy included in metric labels](https://github.com/grafana/vmware_exporter/issues/19)
@@ -26,13 +25,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The only justification for our concepts and systems of concepts is that they
-serve to represent the complex of our experiences; beyond this they have
-no legitimacy.
-		-- Albert Einstein
+Teutonic:
+	Not enough gin.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-07 00:01:33.866999468 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-08 00:01:51.301407712 +0000 UTC :trollface:</sub>
