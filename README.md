@@ -24,11 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-It is wise to keep in mind that neither success nor failure is ever final.
-		-- Roger Babson
+"Your attitude determines your attitude."
+		-- Zig Ziglar, self-improvement doofus
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-09 00:01:21.404282566 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-10 00:01:20.023605241 +0000 UTC :trollface:</sub>
