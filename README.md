@@ -24,12 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Hurewitz's Memory Principle:
-	The chance of forgetting something is directly proportional
-	to... to... uh.....
+Well, I think Perl should run faster than C.  :-)
+		-- Larry Wall in <199801200306.TAA11638@wall.org>
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-11 00:01:41.721255364 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-12 00:01:29.260259751 +0000 UTC :trollface:</sub>
