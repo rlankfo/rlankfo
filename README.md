@@ -24,10 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The more you complain, the longer God lets you live.
+	A New York City judge ruled that if two women behind you at the
+movies insist on discussing the probable outcome of the film, you have the
+right to turn around and blow a Bronx cheer at them.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-13 00:01:54.564331785 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-14 00:01:28.632542796 +0000 UTC :trollface:</sub>
