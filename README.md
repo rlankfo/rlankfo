@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy labels](https://github.com/grafana/vmware_exporter/pull/29)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -24,12 +25,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	A New York City judge ruled that if two women behind you at the
-movies insist on discussing the probable outcome of the film, you have the
-right to turn around and blow a Bronx cheer at them.
+job interview, n.:
+	The excruciating process during which personnel officers
+	separate the wheat from the chaff -- then hire the chaff.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-14 00:01:28.632542796 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-15 00:01:23.802570614 +0000 UTC :trollface:</sub>
