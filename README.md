@@ -6,14 +6,12 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy labels](https://github.com/grafana/vmware_exporter/pull/29)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [cAdvisor integration set enable_load_reader](https://github.com/grafana/agent/issues/1656)
-* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [resource hierarchy included in metric labels](https://github.com/grafana/vmware_exporter/issues/19)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to object discovery path](https://github.com/grafana/vmware_exporter/issues/16)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [create endpoint to generate pprof](https://github.com/grafana/vmware_exporter/issues/14)
@@ -25,12 +23,17 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-job interview, n.:
-	The excruciating process during which personnel officers
-	separate the wheat from the chaff -- then hire the chaff.
+The bone-chilling scream split the warm summer night in two, the first
+half being before the scream when it was fairly balmy and calm and
+pleasant, the second half still balmy and quite pleasant for those who
+hadn't heard the scream at all, but not calm or balmy or even very nice
+for those who did hear the scream, discounting the little period of time
+during the actual scream itself when your ears might have been hearing it
+but your brain wasn't reacting yet to let you know.
+		-- Winning sentence, 1986 Bulwer-Lytton bad fiction contest.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-15 00:01:23.802570614 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-16 00:01:29.060361544 +0000 UTC :trollface:</sub>
