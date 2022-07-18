@@ -22,12 +22,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-There are two types of people in this world, good and bad.  The good
-sleep better, but the bad seem to enjoy the waking hours much more.
-		-- Woody Allen
+It is easier to run down a hill than up one.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-17 00:01:16.77584868 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-18 00:01:28.139184234 +0000 UTC :trollface:</sub>
