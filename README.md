@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [grafana-agent: remove deprecated fields in test](https://github.com/Homebrew/homebrew-core/pull/106079)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -13,7 +14,6 @@
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to object discovery path](https://github.com/grafana/vmware_exporter/issues/16)
-* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [create endpoint to generate pprof](https://github.com/grafana/vmware_exporter/issues/14)
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
 * :call_me_hand: [canonical/microk8s](https://github.com/canonical/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/canonical/microk8s/issues/2743)
@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-It is easier to run down a hill than up one.
+If you've done six impossible things before breakfast, why not round it
+off with dinner at Milliway's, the restaurant at the end of the universe?
+		-- Douglas Adams, "The Restaurant at the End of the Universe"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-18 00:01:28.139184234 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-19 00:01:17.768716578 +0000 UTC :trollface:</sub>
