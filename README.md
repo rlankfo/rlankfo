@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [grafana-agent: remove deprecated fields in test](https://github.com/Homebrew/homebrew-core/pull/106079)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -22,12 +21,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-If you've done six impossible things before breakfast, why not round it
-off with dinner at Milliway's, the restaurant at the end of the universe?
-		-- Douglas Adams, "The Restaurant at the End of the Universe"
+Steal this tagline.  I did.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-19 00:01:17.768716578 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-20 00:01:40.175352613 +0000 UTC :trollface:</sub>
