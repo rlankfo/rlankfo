@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [bcc 0.24.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/106250)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -21,10 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Steal this tagline.  I did.
+Hear about the Californian terrorist that tried to blow up a bus?
+Burned his lips on the exhaust pipe.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-20 00:01:40.175352613 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-21 00:01:33.524361424 +0000 UTC :trollface:</sub>
