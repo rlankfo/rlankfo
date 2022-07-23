@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Do unto others before they undo you.
+"I'd crawl over an acre of 'Visual This++' and 'Integrated Development
+That' to get to gcc, Emacs, and gdb.  Thank you."
+(By Vance Petree, Virginia Power)
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-22 00:01:28.274135109 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-23 00:01:31.12458175 +0000 UTC :trollface:</sub>
