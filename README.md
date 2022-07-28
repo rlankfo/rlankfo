@@ -22,13 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Sometimes I feel like I'm fading away,
-Looking at me, I got nothin' to say.
-Don't make me angry with the things games that you play,
-Either light up or leave me alone.
+People who understand context would be steamed to have someone else
+dictating how they can call it.
+		-- Larry Wall in <199710221710.KAA24242@wall.org>
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-27 00:01:40.180987723 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-28 00:01:31.378184217 +0000 UTC :trollface:</sub>
