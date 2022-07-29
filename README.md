@@ -11,6 +11,8 @@
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
+* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [discovery interval data race](https://github.com/grafana/vmware_exporter/issues/33)
+* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [CSV Format](https://github.com/grafana/vmware_exporter/issues/32)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to object discovery path](https://github.com/grafana/vmware_exporter/issues/16)
@@ -22,12 +24,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-People who understand context would be steamed to have someone else
-dictating how they can call it.
-		-- Larry Wall in <199710221710.KAA24242@wall.org>
+Conversation enriches the understanding, but solitude is the school of genius.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-28 00:01:31.378184217 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-29 00:01:19.054158666 +0000 UTC :trollface:</sub>
