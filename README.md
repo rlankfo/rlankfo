@@ -24,12 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"Home life as we understand it is no more natural to us than a cage is to a
-cockatoo."
-		-- George Bernard Shaw
+Freedom's just another word for nothing left to lose.
+		-- Kris Kristofferson, "Me and Bobby McGee"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-30 00:01:24.070416104 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-07-31 00:01:51.687285477 +0000 UTC :trollface:</sub>
