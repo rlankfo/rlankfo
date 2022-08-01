@@ -24,11 +24,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Freedom's just another word for nothing left to lose.
-		-- Kris Kristofferson, "Me and Bobby McGee"
+We don't really understand it, so we'll give it to the programmers.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-07-31 00:01:51.687285477 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-01 00:01:41.403364621 +0000 UTC :trollface:</sub>
