@@ -6,13 +6,11 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [fix discovery interval data race](https://github.com/grafana/vmware_exporter/pull/34)
 * :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [bcc 0.24.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/106250)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
 #### Comment on some issues :fire:
-* :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [discovery interval data race](https://github.com/grafana/vmware_exporter/issues/33)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [CSV Format](https://github.com/grafana/vmware_exporter/issues/32)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
@@ -25,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Sturgeon's Law:
-	90% of everything is crud.
+"And do you think (fop that I am) that I could be the Scarlet Pumpernickel?"
+		-- Looney Tunes, The Scarlet Pumpernickel (1950, Chuck Jones)
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-02 00:01:22.572327222 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-03 00:01:27.479889856 +0000 UTC :trollface:</sub>
