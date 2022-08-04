@@ -23,11 +23,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"And do you think (fop that I am) that I could be the Scarlet Pumpernickel?"
-		-- Looney Tunes, The Scarlet Pumpernickel (1950, Chuck Jones)
+Money is the root of all evil, and man needs roots.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-03 00:01:27.479889856 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-04 00:01:38.887346746 +0000 UTC :trollface:</sub>
