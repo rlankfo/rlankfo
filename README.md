@@ -23,11 +23,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-You may already be a loser.
-		-- Form letter received by Rodney Dangerfield.
+<tausq>         if (cb) ((cb->obj)->*(cb->ui_func))();
+<knghtbrd> tausq: who the HELL wrote that ?
+<tausq> me :)
+* knghtbrd flogs tausq
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-05 00:01:20.696871484 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-06 00:01:27.532668611 +0000 UTC :trollface:</sub>
