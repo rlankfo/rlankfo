@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add flag for CollectConcurrency](https://github.com/grafana/vmware_exporter/pull/35)
 * :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [bcc 0.24.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/106250)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
@@ -23,13 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<tausq>         if (cb) ((cb->obj)->*(cb->ui_func))();
-<knghtbrd> tausq: who the HELL wrote that ?
-<tausq> me :)
-* knghtbrd flogs tausq
+Non-Reciprocal Laws of Expectations:
+	Negative expectations yield negative results.
+	Positive expectations yield negative results.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-06 00:01:27.532668611 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-07 00:01:38.201035396 +0000 UTC :trollface:</sub>
