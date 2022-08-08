@@ -24,12 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Non-Reciprocal Laws of Expectations:
-	Negative expectations yield negative results.
-	Positive expectations yield negative results.
+QOTD:
+	"I haven't come far enough, and don't call me baby."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-07 00:01:38.201035396 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-08 00:01:28.473354727 +0000 UTC :trollface:</sub>
