@@ -6,6 +6,7 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
+* :metal: [grafana/agent](https://github.com/grafana/agent): [simulate errors on remote write endpoint](https://github.com/grafana/agent/pull/2025)
 * :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [bcc 0.24.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/106250)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
@@ -23,11 +24,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-If a subordinate asks you a pertinent question, look at him as if he had
-lost his senses.  When he looks down, paraphrase the question back at him.
+A girl's conscience doesn't really keep her from doing anything wrong--
+it merely keeps her from enjoying it.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-10 00:01:31.851710264 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-11 00:01:40.881274563 +0000 UTC :trollface:</sub>
