@@ -24,11 +24,27 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A girl's conscience doesn't really keep her from doing anything wrong--
-it merely keeps her from enjoying it.
+	All that you touch,		And all you create,
+	All that you see,		And all you destroy,
+	All that you taste,		All that you do,
+	All you feel,			And all you say,
+	And all that you love,		All that you eat,
+	And all that you hate,		And everyone you meet,
+	All you distrust,		All that you slight,
+	All you save,			And everyone you fight,
+	And all that you give,		And all that is now,
+	And all that you deal,		And all that is gone,
+	All that you buy,		And all that's to come,
+	Beg, borrow or steal,		And everything under the sun is
+						in tune,
+					But the sun is eclipsed
+					By the moon.
+
+There is no dark side of the moon... really... matter of fact it's all dark.
+		-- Pink Floyd, "Dark Side of the Moon"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-11 00:01:40.881274563 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-12 00:01:28.794797889 +0000 UTC :trollface:</sub>
