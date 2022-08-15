@@ -24,10 +24,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Serving suggestion.
+I've finally learned what "upward compatible" means.  It means we get to
+keep all our old mistakes.
+		-- Dennie van Tassel
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-14 00:01:34.958768123 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-15 00:01:34.509535615 +0000 UTC :trollface:</sub>
