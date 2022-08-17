@@ -24,16 +24,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	There once was a master programmer who wrote unstructured programs.
-A novice programmer, seeking to imitate him, also began to write unstructured
-programs.  When the novice asked the master to evaluate his progress, the
-master criticized him for writing unstructured programs, saying: "What is
-appropriate for the master is not appropriate for the novice.  You must
-understand the Tao before transcending structure."
-		-- Geoffrey James, "The Tao of Programming"
+You have a tendency to feel you are superior to most computers.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-16 00:01:26.05419667 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-17 00:01:32.182048735 +0000 UTC :trollface:</sub>
