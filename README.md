@@ -23,10 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Sanitized for your protection.
+QOTD:
+	"I thought I saw a unicorn on the way over, but it was just a
+	horse with one of the horns broken off."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-20 00:01:26.373290912 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-21 00:01:16.919811902 +0000 UTC :trollface:</sub>
