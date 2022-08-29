@@ -23,23 +23,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	Graduating seniors, parents and friends...
-	Let me begin by reassuring you that my remarks today will stand up
-to the most stringent requirements of the new appropriateness.
-	The intra-college sensitivity advisory committee has vetted the
-text of even trace amounts of subconscious racism, sexism and classism.
-	Moreover, a faculty panel of deconstructionists have reconfigured
-the rhetorical components within a post-structuralist framework, so as to
-expunge any offensive elements of western rationalism and linear logic.
-	Finally, all references flowing from a white, male, eurocentric
-perspective have been eliminated, as have any other ruminations deemed
-denigrating to the political consensus of the moment.
-
-	Thank you and good luck.
-		-- Doonesbury, the University Chancellor's graduation speech.
+ADA:
+	Something you need only know the name of to be an Expert in
+	Computing.  Useful in sentences like, "We had better develop
+	an ADA awareness.
+		-- "Datamation", January 15, 1984
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-28 00:01:23.774983331 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-29 00:01:31.193541591 +0000 UTC :trollface:</sub>
