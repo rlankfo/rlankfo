@@ -23,14 +23,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-ADA:
-	Something you need only know the name of to be an Expert in
-	Computing.  Useful in sentences like, "We had better develop
-	an ADA awareness.
-		-- "Datamation", January 15, 1984
+Some of them want to use you,
+Some of them want to be used by you,
+...Everybody's looking for something.
+		-- Eurythmics
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-29 00:01:31.193541591 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-08-30 00:01:29.205687286 +0000 UTC :trollface:</sub>
