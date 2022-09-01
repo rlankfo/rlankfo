@@ -23,20 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Do you suffer painful elimination?
-		-- Don Knuth, "Structured Programming with Gotos"
-
-Do you suffer painful recrimination?
-		-- Nancy Boxer, "Structured Programming with Come-froms"
-
-Do you suffer painful illumination?
-		-- Isaac Newton, "Optics"
-
-Do you suffer painful hallucination?
-		-- Don Juan, cited by Carlos Casteneda
+In case of fire, stand in the hall and shout "Fire!"
+		-- The Kidner Report
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-08-31 00:01:28.980275652 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-01 00:01:27.834698559 +0000 UTC :trollface:</sub>
