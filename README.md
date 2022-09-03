@@ -23,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"Life sucks, but death doesn't put out at all...."
-		-- Thomas J. Kopp
+Money doesn't talk, it swears.
+		-- Bob Dylan
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-02 00:01:11.956926432 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-03 00:01:42.935963159 +0000 UTC :trollface:</sub>
