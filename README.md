@@ -23,11 +23,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Money doesn't talk, it swears.
-		-- Bob Dylan
+Q: What's the big deal about rm, I have been deleting stuff for years?  And
+   never lost anything.. oops!
+A: ...
+		-- From the Frequently Unasked Questions
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-03 00:01:42.935963159 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-04 00:01:12.647398258 +0000 UTC :trollface:</sub>
