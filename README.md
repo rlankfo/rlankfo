@@ -23,12 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A man gazing at the stars is proverbially at the mercy of the puddles
-in the road.
-		-- Alexander Smith
+The Fifth Rule:
+	You have taken yourself too seriously.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-06 00:01:28.38112413 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-07 00:01:32.327113094 +0000 UTC :trollface:</sub>
