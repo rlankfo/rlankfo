@@ -23,14 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Life is a game.  In order to have a game, something has to be more
-important than something else.  If what already is, is more important
-than what isn't, the game is over.  So, life is a game in which what
-isn't, is more important than what is.  Let the good times roll.
-		-- Werner Erhard
+"Though a program be but three lines long,
+someday it will have to be maintained."
+		-- The Tao of Programming
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-09 00:01:23.324075006 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-10 00:01:38.849731157 +0000 UTC :trollface:</sub>
