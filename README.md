@@ -23,12 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"Though a program be but three lines long,
-someday it will have to be maintained."
-		-- The Tao of Programming
+You shall judge of a man by his foes as well as by his friends.
+		-- Joseph Conrad
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-10 00:01:38.849731157 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-11 00:01:33.282926934 +0000 UTC :trollface:</sub>
