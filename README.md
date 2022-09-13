@@ -23,13 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-QOTD:
-	I opened Pandora's box, let the cat out of the bag and put the
-	ball in their court.
-		-- Hon. J. Hacker (The Ministry of Administrative Affairs)
+The bugs you have to avoid are the ones that give the user not only
+the inclination to get on a plane, but also the time.
+		-- Kay Bostic
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-12 00:01:28.437922433 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-13 00:01:52.449435672 +0000 UTC :trollface:</sub>
