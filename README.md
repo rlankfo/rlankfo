@@ -23,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I am two fools, I know, for loving, and for saying so.
-		-- John Donne
+Treaties are like roses and young girls -- they last while they last.
+		-- Charles DeGaulle
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-17 00:01:33.554233291 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-18 00:01:31.917718402 +0000 UTC :trollface:</sub>
