@@ -23,11 +23,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Treaties are like roses and young girls -- they last while they last.
-		-- Charles DeGaulle
+Look, we trade every day out there with hustlers, deal-makers, shysters,
+con-men.  That's the way businesses get started.  That's the way this
+country was built.
+		-- Hubert Allen
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-18 00:01:31.917718402 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-19 00:01:25.166873027 +0000 UTC :trollface:</sub>
