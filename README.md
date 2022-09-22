@@ -23,11 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-laser, n.:
-	Failed death ray.
+Resisting temptation is easier when you think you'll probably get
+another chance later on.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-21 00:02:45.140105258 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-22 00:02:27.619547819 +0000 UTC :trollface:</sub>
