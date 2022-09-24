@@ -23,10 +23,17 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Perfect day for scrubbing the floor and other exciting things.
+Although it is still a truism in industry that "no one was ever fired for
+buying IBM," Bill O'Neil, the chief technology officer at Drexel Burnham
+Lambert, says he knows for a fact that someone has been fired for just that
+reason.  He knows it because he fired the guy.
+	"He made a bad decision, and what it came down to was, 'Well, I
+bought it because I figured it was safe to buy IBM,'"  Mr. O'Neil says.
+"I said, 'No.  Wrong.  Game over.  Next contestant, please.'"
+		-- The Wall Street Journal, December 6, 1989
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-23 00:01:51.492426185 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-24 00:02:43.46273864 +0000 UTC :trollface:</sub>
