@@ -23,17 +23,18 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Although it is still a truism in industry that "no one was ever fired for
-buying IBM," Bill O'Neil, the chief technology officer at Drexel Burnham
-Lambert, says he knows for a fact that someone has been fired for just that
-reason.  He knows it because he fired the guy.
-	"He made a bad decision, and what it came down to was, 'Well, I
-bought it because I figured it was safe to buy IBM,'"  Mr. O'Neil says.
-"I said, 'No.  Wrong.  Game over.  Next contestant, please.'"
-		-- The Wall Street Journal, December 6, 1989
+> : Any porters out there should feel happier knowing that DEC is shipping
+> : me an AlphaPC that I intend to try getting linux running on: this will
+> : definitely help flush out some of the most flagrant unportable stuff.
+> : The Alpha is much more different from the i386 than the 68k stuff is, so
+> : it's likely to get most of the stuff fixed.
+>
+> It's posts like this that almost convince us non-believers that there
+> really is a god.
+		-- Anthony Lovell, to Linus's remarks about porting
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-24 00:02:43.46273864 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-25 00:02:04.540858785 +0000 UTC :trollface:</sub>
