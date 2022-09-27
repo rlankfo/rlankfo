@@ -23,13 +23,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Two friends were out drinking when suddenly one lurched backward off his
-barstool and lay motionless on the floor.
-	"One thing about Jim," the other said to the bartender, "he sure
-knows when to stop."
+paycheck:
+	The weekly $5.27 that remains after deductions for federal
+	withholding, state withholding, city withholding, FICA,
+	medical/dental, long-term disability, unemployment insurance,
+	Christmas Club, and payroll savings plan contributions.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-26 00:02:08.901134771 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-27 00:04:51.45862295 +0000 UTC :trollface:</sub>
