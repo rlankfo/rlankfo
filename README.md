@@ -23,14 +23,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-paycheck:
-	The weekly $5.27 that remains after deductions for federal
-	withholding, state withholding, city withholding, FICA,
-	medical/dental, long-term disability, unemployment insurance,
-	Christmas Club, and payroll savings plan contributions.
+"The question is rather: if we ever succeed in making a mind 'of nuts and
+bolts', how will we know we have succeeded?
+-- Fergal Toomey
+
+"It will tell us."
+		-- Barry Kort
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-27 00:04:51.45862295 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-28 00:04:38.256004008 +0000 UTC :trollface:</sub>
