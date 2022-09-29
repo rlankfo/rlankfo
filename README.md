@@ -23,15 +23,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"The question is rather: if we ever succeed in making a mind 'of nuts and
-bolts', how will we know we have succeeded?
--- Fergal Toomey
-
-"It will tell us."
-		-- Barry Kort
+"I was drunk last night, crawled home across the lawn.  By accident I
+put the car key in the door lock.  The house started up.  So I figured
+what the hell, and drove it around the block a few times.  I thought I
+should go park it in the middle of the freeway and yell at everyone to
+get off my driveway."
+		-- Steven Wright
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-28 00:04:38.256004008 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-29 00:04:38.783207562 +0000 UTC :trollface:</sub>
