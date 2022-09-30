@@ -23,15 +23,21 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"I was drunk last night, crawled home across the lawn.  By accident I
-put the car key in the door lock.  The house started up.  So I figured
-what the hell, and drove it around the block a few times.  I thought I
-should go park it in the middle of the freeway and yell at everyone to
-get off my driveway."
-		-- Steven Wright
+Extraordinary claims demand extraordinary proof.  There are many examples
+of outsiders who eventually overthrew entrenched scientific orthodoxies,
+but they prevailed with irrefutable data.  More often, egregious findings
+that contradict well-established research turn out to be artifacts.  I have
+argued that accepting psychic powers, reincarnation, "cosmic conciousness,"
+and the like, would entail fundamental revisions of the foundations of
+neuroscience.  Before abandoning materialist theories of mind that have paid
+handsome dividends, we should insist on better evidence for psi phenomena
+than presently exists, especially when neurology and psychology themselves
+offer more plausible alternatives.
+		-- Barry L. Beyerstein, "The Brain and Conciousness:
+		   Implications for Psi Phenomena".
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-29 00:04:38.783207562 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-09-30 00:05:26.49294849 +0000 UTC :trollface:</sub>
