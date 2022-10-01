@@ -23,21 +23,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Extraordinary claims demand extraordinary proof.  There are many examples
-of outsiders who eventually overthrew entrenched scientific orthodoxies,
-but they prevailed with irrefutable data.  More often, egregious findings
-that contradict well-established research turn out to be artifacts.  I have
-argued that accepting psychic powers, reincarnation, "cosmic conciousness,"
-and the like, would entail fundamental revisions of the foundations of
-neuroscience.  Before abandoning materialist theories of mind that have paid
-handsome dividends, we should insist on better evidence for psi phenomena
-than presently exists, especially when neurology and psychology themselves
-offer more plausible alternatives.
-		-- Barry L. Beyerstein, "The Brain and Conciousness:
-		   Implications for Psi Phenomena".
+If your hands are clean and your cause is just and your demands are
+reasonable, at least it's a start.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-09-30 00:05:26.49294849 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-01 00:04:11.455992148 +0000 UTC :trollface:</sub>
