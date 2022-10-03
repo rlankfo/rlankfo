@@ -23,12 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Bad men live that they may eat and drink, whereas good men eat and drink
-that they may live.
-		-- Socrates
+I always turn to the sports pages first, which record people's accomplishments.
+The front page has nothing but man's failures.
+		-- Chief Justice Earl Warren
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-02 00:03:25.289318692 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-03 00:03:41.218102012 +0000 UTC :trollface:</sub>
