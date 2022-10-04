@@ -23,12 +23,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I always turn to the sports pages first, which record people's accomplishments.
-The front page has nothing but man's failures.
-		-- Chief Justice Earl Warren
+"Who alone has reason to *lie himself out* of actuality?  He who *suffers*
+ from it."
+		-- Friedrich Nietzsche
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-03 00:03:41.218102012 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-04 00:03:34.56083551 +0000 UTC :trollface:</sub>
