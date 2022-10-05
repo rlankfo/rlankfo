@@ -23,12 +23,26 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"Who alone has reason to *lie himself out* of actuality?  He who *suffers*
- from it."
-		-- Friedrich Nietzsche
+Black shiny mollies and bright colored guppies,
+Shy little angels as gentle as puppies,
+Swimming and diving with scarcely a swish,
+They were just some of my tropical fish.
+
+Then I got mantas that sting in the water,
+Deadly piranhas that itch for a slaughter,
+Savage male betas that bite with a squish,
+Now I have many less tropical fish.
+
+	If you think that
+	Fish are peaceful
+	That's an empty wish.
+	Just dump them together
+	And leave them alone,
+	And soon you will have -- no fish.
+		-- To My Favorite Things
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-04 00:03:34.56083551 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-05 00:03:12.815586085 +0000 UTC :trollface:</sub>
