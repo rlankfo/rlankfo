@@ -23,14 +23,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Rev. Jim:	What does an amber light mean?
-Bobby:		Slow down.
-Rev. Jim:	What...   does...  an...  amber...  light...  mean?
-Bobby:		Slow down.
-Rev. Jim:	What....     does....     an....     amber....     light....
+ASCII:
+	The control code for all beginning programmers and those who would
+	become computer literate.  Etymologically, the term has come down as
+	a contraction of the often-repeated phrase "ascii and you shall
+	receive."
+		-- Robb Russon
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-08 00:03:14.323249444 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-09 00:02:10.818289222 +0000 UTC :trollface:</sub>
