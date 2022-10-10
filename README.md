@@ -6,7 +6,6 @@
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
 #### Review some of my code :eyes:
-* :metal: [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core): [bcc 0.24.0 (new formula)](https://github.com/Homebrew/homebrew-core/pull/106250)
 * :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
 * :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
 
@@ -23,15 +22,30 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-ASCII:
-	The control code for all beginning programmers and those who would
-	become computer literate.  Etymologically, the term has come down as
-	a contraction of the often-repeated phrase "ascii and you shall
-	receive."
-		-- Robb Russon
+	Long ago, in a finite state far away, there lived a JOVIAL
+character named Jack.  Jack and his relations were poor.  Often their
+hash table was bare.  One day Jack's parent said to him, "Our matrices
+are sparse.  You must go to the market to exchange our RAM for some
+BASICs."  She compiled a linked list of items to retrieve and passed it
+to him.
+	So Jack set out.  But as he was walking along a Hamilton path,
+he met the traveling salesman.
+	"Whither dost thy flow chart take thou?" prompted the salesman
+in high-level language.
+	"I'm going to the market to exchange this RAM for some chips
+and Apples," commented Jack.
+	"I have a much better algorithm.  You needn't join a queue
+there; I will swap your RAM for these magic kernels now."
+	Jack made the trade, then backtracked to his house.  But when
+he told his busy-waiting parent of the deal, she became so angry she
+started thrashing.
+	"Don't you even have any artificial intelligence?  All these
+kernels together hardly make up one byte," and she popped them out the
+window...
+		-- Mark Isaak, "Jack and the Beanstack"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-09 00:02:10.818289222 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-10 00:02:46.264499194 +0000 UTC :trollface:</sub>
