@@ -22,30 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-	Long ago, in a finite state far away, there lived a JOVIAL
-character named Jack.  Jack and his relations were poor.  Often their
-hash table was bare.  One day Jack's parent said to him, "Our matrices
-are sparse.  You must go to the market to exchange our RAM for some
-BASICs."  She compiled a linked list of items to retrieve and passed it
-to him.
-	So Jack set out.  But as he was walking along a Hamilton path,
-he met the traveling salesman.
-	"Whither dost thy flow chart take thou?" prompted the salesman
-in high-level language.
-	"I'm going to the market to exchange this RAM for some chips
-and Apples," commented Jack.
-	"I have a much better algorithm.  You needn't join a queue
-there; I will swap your RAM for these magic kernels now."
-	Jack made the trade, then backtracked to his house.  But when
-he told his busy-waiting parent of the deal, she became so angry she
-started thrashing.
-	"Don't you even have any artificial intelligence?  All these
-kernels together hardly make up one byte," and she popped them out the
-window...
-		-- Mark Isaak, "Jack and the Beanstack"
+"Whoever undertakes to set himself up as a judge of Truth and Knowledge is
+shipwrecked by the laughter of the gods."
+		-- Albert Einstein
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-10 00:02:46.264499194 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-11 00:03:31.67575956 +0000 UTC :trollface:</sub>
