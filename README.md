@@ -22,12 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"Whoever undertakes to set himself up as a judge of Truth and Knowledge is
-shipwrecked by the laughter of the gods."
-		-- Albert Einstein
+Conscience is a mother-in-law whose visit never ends.
+		-- H. L. Mencken
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-11 00:03:31.67575956 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-12 00:03:39.048035672 +0000 UTC :trollface:</sub>
