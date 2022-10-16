@@ -22,10 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-I just got my PRINCE bumper sticker ... But now I can't remember WHO he is ...
+When in doubt, parenthesize.  At the very least it will let some
+poor schmuck bounce on the % key in vi.
+		-- Larry Wall in the perl man page
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-15 00:02:44.913418162 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-16 00:02:50.275320256 +0000 UTC :trollface:</sub>
