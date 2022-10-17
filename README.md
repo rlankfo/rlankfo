@@ -22,12 +22,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-When in doubt, parenthesize.  At the very least it will let some
-poor schmuck bounce on the % key in vi.
-		-- Larry Wall in the perl man page
+British education is probably the best in the world, if you can survive
+it.  If you can't there is nothing left for you but the diplomatic corps.
+		-- Peter Ustinov
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-16 00:02:50.275320256 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-17 00:02:56.892459791 +0000 UTC :trollface:</sub>
