@@ -22,16 +22,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-There is, in fact, no reason to believe that any given natural phenomenon,
-however marvelous it may seem today, will remain forever inexplicable.
-Soon or late the laws governing the production of life itself will be
-discovered in the laboratory, and man may set up business as a creator
-on his own account.  The thing, indeed, is not only conceivable; it is
-even highly probable.
-		-- H. L. Mencken, 1930
+Here is a test to find whether your mission on earth is finished:
+if you're alive, it isn't.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-19 00:03:51.144181589 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-20 00:03:55.961415245 +0000 UTC :trollface:</sub>
