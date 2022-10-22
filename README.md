@@ -5,10 +5,6 @@
 - 🔭 I’m currently working on the Grafana Agent
 - ⚡ Fun fact: The photo above was taken at Lake Powell Resort before a white water rafting trip in the Grand Canyon.
 
-#### Review some of my code :eyes:
-* :metal: [google/go-jsonnet](https://github.com/google/go-jsonnet): [handle int type in interpreter](https://github.com/google/go-jsonnet/pull/613)
-* :metal: [google/cadvisor](https://github.com/google/cadvisor): [export enableLoadReader](https://github.com/google/cadvisor/pull/3108)
-
 #### Comment on some issues :fire:
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [CSV Format](https://github.com/grafana/vmware_exporter/issues/32)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [queryPerf spec requires metricId value](https://github.com/grafana/vmware_exporter/issues/21)
@@ -22,12 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-He who is in love with himself has at least this advantage -- he won't
-encounter many rivals.
-		-- Georg Lichtenberg, "Aphorisms"
+"To take a significant step forward, you must make a series of finite
+improvements."
+		-- Donald J. Atwood, General Motors
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-21 00:04:14.671353977 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-22 00:03:18.455105416 +0000 UTC :trollface:</sub>
