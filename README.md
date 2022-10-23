@@ -18,12 +18,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-"To take a significant step forward, you must make a series of finite
-improvements."
-		-- Donald J. Atwood, General Motors
+Anything labeled "NEW" and/or "IMPROVED" isn't.  The label means the
+price went up.  The label "ALL NEW", "COMPLETELY NEW", or "GREAT NEW"
+means the price went way up.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-22 00:03:18.455105416 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-23 00:02:59.824202102 +0000 UTC :trollface:</sub>
