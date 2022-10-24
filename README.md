@@ -18,12 +18,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Anything labeled "NEW" and/or "IMPROVED" isn't.  The label means the
-price went up.  The label "ALL NEW", "COMPLETELY NEW", or "GREAT NEW"
-means the price went way up.
+Good teaching is one-fourth preparation and three-fourths good theatre.
+		-- Gail Godwin
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-23 00:02:59.824202102 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-24 00:03:13.224471756 +0000 UTC :trollface:</sub>
