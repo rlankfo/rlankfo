@@ -18,11 +18,20 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Good teaching is one-fourth preparation and three-fourths good theatre.
-		-- Gail Godwin
+Coach: How's it going, Norm?
+Norm:  Daddy's rich and Momma's good lookin'.
+		-- Cheers, Truce or Consequences
+
+Sam:   What's up, Norm?
+Norm:  My nipples.  It's freezing out there.
+		-- Cheers, Coach Returns to Action
+
+Coach: What's the story, Norm?
+Norm:  Thirsty guy walks into a bar.  You finish it.
+		-- Cheers, Endless Slumper
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-24 00:03:13.224471756 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-25 00:03:32.787785572 +0000 UTC :trollface:</sub>
