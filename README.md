@@ -18,11 +18,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Space is to place as eternity is to time.
-		-- Joseph Joubert
+"Anything created must necessarily be inferior to the essence of the creator."
+		-- Claude Shouse
+
+"Einstein's mother must have been one heck of a physicist."
+		-- Joseph C. Wang
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-26 00:01:24.079000574 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-27 00:01:38.389115173 +0000 UTC :trollface:</sub>
