@@ -11,21 +11,16 @@
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to metric collection path](https://github.com/grafana/vmware_exporter/issues/17)
 * :call_me_hand: [grafana/vmware_exporter](https://github.com/grafana/vmware_exporter): [add tracing to object discovery path](https://github.com/grafana/vmware_exporter/issues/16)
 * :call_me_hand: [grafana/homebrew-grafana](https://github.com/grafana/homebrew-grafana): [automate bottle updates for grafana-agent formula](https://github.com/grafana/homebrew-grafana/issues/25)
-* :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [document installation with brew](https://github.com/grafana/agent/issues/1236)
 * :call_me_hand: [canonical/microk8s](https://github.com/canonical/microk8s): [Create Grafana Agent Operator Add-on](https://github.com/canonical/microk8s/issues/2743)
 * :call_me_hand: [grafana/agent](https://github.com/grafana/agent): [Option to test agent k8s operator in smoke framework](https://github.com/grafana/agent/issues/1070)
 
 #### Daily Fortune :crescent_moon:
 
 ```
-"Anything created must necessarily be inferior to the essence of the creator."
-		-- Claude Shouse
-
-"Einstein's mother must have been one heck of a physicist."
-		-- Joseph C. Wang
+You will triumph over your enemy.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-10-27 00:01:38.389115173 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-10-28 00:01:13.857056243 +0000 UTC :trollface:</sub>
