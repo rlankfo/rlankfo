@@ -17,11 +17,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<lux> if macOS is for the computer illiterate, then windoze is for the
-      computer masochists
+Blue paint today.
+		[Funny to Jack Slingwine, Guy Harris and Hal Pierson.  Ed.]
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-04 00:01:15.161550744 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-05 00:01:35.274880186 +0000 UTC :trollface:</sub>
