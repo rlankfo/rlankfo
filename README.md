@@ -17,11 +17,16 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Blue paint today.
-		[Funny to Jack Slingwine, Guy Harris and Hal Pierson.  Ed.]
+The best case:	   Get salary from America, build a house in England,
+			live with a Japanese wife, and eat Chinese food.
+Pretty good case:  Get salary from England, build a house in America,
+			live with a Chinese wife, and eat Japanese food.
+The worst case:    Get salary from China, build a house in Japan,
+			live with a British wife, and eat American food.
+		-- Bungei Shunju, a popular Japanese magazine
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-05 00:01:35.274880186 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-06 00:01:43.750259746 +0000 UTC :trollface:</sub>
