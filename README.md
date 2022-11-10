@@ -17,29 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-XVI:
-	In the year 2054, the entire defense budget will purchase just one
-	aircraft.  This aircraft will have to be shared by the Air Force and
-	Navy 3-1/2 days each per week except for leap year, when it will be
-	made available to the Marines for the extra day.
-XVII:
-	Software is like entropy.  It is difficult to grasp, weighs nothing,
-	and obeys the Second Law of Thermodynamics, i.e., it always increases.
-XVIII:
-	It is very expensive to achieve high unreliability.  It is not uncommon
-	to increase the cost of an item by a factor of ten for each factor of
-	ten degradation accomplished.
-XIX:
-	Although most products will soon be too costly to purchase, there will
-	be a thriving market in the sale of books on how to fix them.
-XX:
-	In any given year, Congress will appropriate the amount of funding
-	approved the prior year plus three-fourths of whatever change the
-	administration requests -- minus 4-percent tax.
-		-- Norman Augustine
+The climate of Bombay is such that its inhabitants have to live elsewhere.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-09 00:01:30.042151165 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-10 00:01:31.934000095 +0000 UTC :trollface:</sub>
