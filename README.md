@@ -17,11 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Character is what you are in the dark!
-		-- Lord John Whorfin
+The absent ones are always at fault.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-11 00:01:31.417159959 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-12 00:01:28.387267343 +0000 UTC :trollface:</sub>
