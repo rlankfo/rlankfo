@@ -17,30 +17,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The Great Movie Posters:
-
-KATHERINE HEPBURN as the lying, stealing, singing, preying witch girl
-of the Ozarks... "Low down white trash"?  Maybe so -- but let her hear
-you say it and she'll break your head to prove herself a lady!
-		-- Spitfire (1934)
-
-Do Native Women Live With Apes?
-		-- Love Life of a Gorilla (1937)
-
-JUNGLE KISS!!
-	When she looked into his eyes, felt his arms around her -- she
-was no longer Tura, mysterious white goddess of the jungle tribes --
-she was no longer the frozen-hearted high priestess under whose hypnotic
-spell the worshippers of the great crocodile god meekly bowed -- she
-was a girl in love!
-	SEE the ravening charge of the hundred scared CROCODILES!
-		-- Her Jungle Love (1938)
-
-LOVE! HATE! JOY! FEAR! TORMENT! PANIC! SHAME! RAGE!
-		-- Intermezzo (1939)
+New York now leads the world's great cities in the number of people around
+whom you shouldn't make a sudden move.
+		-- David Letterman
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-13 00:01:26.36035716 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-14 00:01:20.704536221 +0000 UTC :trollface:</sub>
