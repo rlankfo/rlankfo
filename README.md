@@ -17,11 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-momentum, n.:
-	What you give a person when they are going away.
+The only rose without thorns is friendship.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-18 00:01:34.05986701 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-19 00:01:15.970397602 +0000 UTC :trollface:</sub>
