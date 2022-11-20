@@ -17,10 +17,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The only rose without thorns is friendship.
+Not all who own a harp are harpers.
+		-- Marcus Terentius Varro
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-19 00:01:15.970397602 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-20 00:34:21.957587889 +0000 UTC :trollface:</sub>
