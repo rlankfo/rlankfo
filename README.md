@@ -17,22 +17,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A Severe Strain on the Credulity
-	As a method of sending a missile to the higher, and even to the
-highest parts of the earth's atmospheric envelope, Professor Goddard's rocket
-is a practicable and therefore promising device. It is when one considers the
-multiple-charge rocket as a traveler to the moon that one begins to doubt...
-for after the rocket quits our air and really starts on its journey, its
-flight would be neither accelerated nor maintained by the explosion of the
-charges it then might have left.  Professor Goddard, with his "chair" in
-Clark College and countenancing of the Smithsonian Institution, does not
-know the relation of action to re-action, and of the need to have something
-better than a vacuum against which to react... Of course he only seems to
-lack the knowledge ladled out daily in high schools.
-		-- New York Times Editorial, 1920
+A Thaum is the basic unit of magical strength.  It has been universally
+established as the amount of magic needed to create one small white pigeon
+or three normal sized billiard balls.
+		-- Terry Pratchett, "The Light Fantastic"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-21 00:32:38.857610645 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-22 00:32:22.248664271 +0000 UTC :trollface:</sub>
