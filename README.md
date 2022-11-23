@@ -17,13 +17,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A Thaum is the basic unit of magical strength.  It has been universally
-established as the amount of magic needed to create one small white pigeon
-or three normal sized billiard balls.
-		-- Terry Pratchett, "The Light Fantastic"
+Mencken and Nathan's Sixteenth Law of The Average American:
+	Milking a cow is an operation demanding a special talent which
+	is possessed only by yokels, and no person born in a large city can
+	ever hope to acquire it.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-22 00:32:22.248664271 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-23 00:26:55.582615395 +0000 UTC :trollface:</sub>
