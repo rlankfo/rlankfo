@@ -17,13 +17,13 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Mencken and Nathan's Sixteenth Law of The Average American:
-	Milking a cow is an operation demanding a special talent which
-	is possessed only by yokels, and no person born in a large city can
-	ever hope to acquire it.
+PLEASE DON'T SMOKE HERE!
+
+Penalty: An early, lingering death from cancer,
+	 emphysema, or other smoking-caused ailment.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-23 00:26:55.582615395 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-24 00:33:29.923554154 +0000 UTC :trollface:</sub>
