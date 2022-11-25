@@ -17,13 +17,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-PLEASE DON'T SMOKE HERE!
-
-Penalty: An early, lingering death from cancer,
-	 emphysema, or other smoking-caused ailment.
+Kennedy's Market Theorem:
+	Given enough inside information and unlimited credit,
+	you've got to go broke.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-24 00:33:29.923554154 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-25 00:30:02.915808486 +0000 UTC :trollface:</sub>
