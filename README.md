@@ -17,12 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Kennedy's Market Theorem:
-	Given enough inside information and unlimited credit,
-	you've got to go broke.
+If it's Tuesday, this must be someone else's fortune.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-25 00:30:02.915808486 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-26 00:26:25.388915785 +0000 UTC :trollface:</sub>
