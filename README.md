@@ -17,18 +17,16 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-My own dear love, he is strong and bold
-	And he cares not what comes after.
-His words ring sweet as a chime of gold,
-	And his eyes are lit with laughter.
-He is jubilant as a flag unfurled --
-	Oh, a girl, she'd not forget him.
-My own dear love, he is all my world --
-	And I wish I'd never met him.
-		-- Dorothy Parker, part 1
+The five rules of Socialism:
+	(1) Don't think.
+	(2) If you do think, don't speak.
+	(3) If you think and speak, don't write.
+	(4) If you think, speak and write, don't sign.
+	(5) If you think, speak, write and sign, don't be surprised.
+		-- being told in Poland, 1987
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-27 00:31:17.967429241 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-28 00:27:42.986083493 +0000 UTC :trollface:</sub>
