@@ -17,16 +17,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-The five rules of Socialism:
-	(1) Don't think.
-	(2) If you do think, don't speak.
-	(3) If you think and speak, don't write.
-	(4) If you think, speak and write, don't sign.
-	(5) If you think, speak, write and sign, don't be surprised.
-		-- being told in Poland, 1987
+Man is the best computer we can put aboard a spacecraft ... and the
+only one that can be mass produced with unskilled labor.
+		-- Wernher von Braun
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-28 00:27:42.986083493 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-29 00:30:52.634944803 +0000 UTC :trollface:</sub>
