@@ -17,12 +17,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Man is the best computer we can put aboard a spacecraft ... and the
-only one that can be mass produced with unskilled labor.
-		-- Wernher von Braun
+Poorman's Rule:
+	When you pull a plastic garbage bag from its handy dispenser package,
+	you always get hold of the closed end and try to pull it open.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-11-29 00:30:52.634944803 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-11-30 00:30:53.378838085 +0000 UTC :trollface:</sub>
