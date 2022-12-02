@@ -17,12 +17,12 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-And we can always supply them with a program that makes identical files
-into links to a single file.
-		-- Larry Wall in <199709292012.NAA09616@wall.org>
+If you are not for yourself, who will be for you?
+If you are for yourself, then what are you?
+If not now, when?
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-01 00:33:45.45402583 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-02 00:29:16.888430212 +0000 UTC :trollface:</sub>
