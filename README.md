@@ -17,12 +17,11 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-If you are not for yourself, who will be for you?
-If you are for yourself, then what are you?
-If not now, when?
+QOTD:
+	"If I'm what I eat, I'm a chocolate chip cookie."
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-02 00:29:16.888430212 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-03 00:25:24.245093174 +0000 UTC :trollface:</sub>
