@@ -17,11 +17,19 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-QOTD:
-	"If I'm what I eat, I'm a chocolate chip cookie."
+Technicality, n.:
+	In an English court a man named Home was tried for slander in having
+	accused a neighbor of murder.  His exact words were: "Sir Thomas Holt
+	hath taken a cleaver and stricken his cook upon the head, so that one
+	side of his head fell on one shoulder and the other side upon the
+	other shoulder."  The defendant was acquitted by instruction of the
+	court, the learned judges holding that the words did not charge murder,
+	for they did not affirm the death of the cook, that being only an
+	inference.
+		-- Ambrose Bierce, "The Devil's Dictionary"
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-03 00:25:24.245093174 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-04 00:27:01.559628719 +0000 UTC :trollface:</sub>
