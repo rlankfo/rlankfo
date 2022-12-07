@@ -17,10 +17,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-<``Erik> 18,446,744,073,709,551,616 is a big number
+Virtue is its own punishment.
+		-- Denniston
+
+Righteous people terrify me ... virtue is its own punishment.
+		-- Aneurin Bevan
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-06 00:26:20.89623797 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-07 00:01:13.519293574 +0000 UTC :trollface:</sub>
