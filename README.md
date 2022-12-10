@@ -17,10 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-A fool must now and then be right by chance.
+If you're right 90% of the time, why quibble about the remaining 3%?
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-09 00:01:11.292267438 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-10 00:01:25.05902433 +0000 UTC :trollface:</sub>
