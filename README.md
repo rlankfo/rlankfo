@@ -17,10 +17,15 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-If you're right 90% of the time, why quibble about the remaining 3%?
+For there are moments when one can neither think nor feel.  And if one can
+neither think nor feel, she thought, where is one?
+		-- Virginia Woolf, "To the Lighthouse"
+
+	[Quoted in "VMS Internals and Data Structures", V4.4, when
+	 referring to powerfail recovery.]
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-10 00:01:25.05902433 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-11 00:01:11.99067965 +0000 UTC :trollface:</sub>
