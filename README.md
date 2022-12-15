@@ -17,15 +17,10 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-And yet, seasons must be taken with a grain of salt, for they too have
-a sense of humor, as does history.  Corn stalks comedy, comedy stalks
-tragedy, and this too is historic.  And yet, still, when corn meets
-tragedy face to face, we have politics.
-		-- Dalglish, Larsen and Sutherland, "Root Crops and
-		   Ground Cover"
+  We are not anticipating any emergencies.
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-14 00:01:17.632523386 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-15 00:01:11.057776397 +0000 UTC :trollface:</sub>
