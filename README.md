@@ -17,13 +17,14 @@
 #### Daily Fortune :crescent_moon:
 
 ```
-Genderplex, n.:
-	The predicament of a person in a restaurant who is unable to
-	determine his or her designated restroom (e.g., turtles and tortoises).
-		-- Rich Hall, "Sniglets"
+In this vale
+Of toil and sin
+Your head grows bald
+But not your chin.
+		-- Burma Shave
 ```
 
 #### Weather Report :partly_sunny:
 ![Weather for Rogers, AR](https://wttr.in/Rogers,%20AR_nFqp_background=0d1117.png?u)
 
-<sub>README.md generated at 2022-12-16 00:01:03.380998006 +0000 UTC :trollface:</sub>
+<sub>README.md generated at 2022-12-17 00:01:05.155388625 +0000 UTC :trollface:</sub>
